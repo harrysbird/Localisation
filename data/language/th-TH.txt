@@ -1082,386 +1082,386 @@ STR_1076    :โหมดร้านค้าแผงลอย
 STR_1077    :โหมดการหมุน
 STR_1078    :หมุนไปข้างหน้า
 STR_1079    :การหมุนย้อนกลับ
-STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
-STR_1082    :Space rings mode
-STR_1083    :Beginners mode
-STR_1084    :LIM-powered launch
-STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
-STR_1086    :3D film: {ENDQUOTES}Storm chasers{ENDQUOTES}
-STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
-STR_1088    :Intense mode
-STR_1089    :Berserk mode
-STR_1090    :Haunted house mode
-STR_1091    :Circus show mode
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
-STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Travelling at {VELOCITY}
-STR_1103    :Arriving at {POP16}{STRINGID}
-STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Travelling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
-STR_1108    :Travelling at {VELOCITY}
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
-STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
-STR_1115    :Operating
-STR_1116    :Operating
-STR_1117    :Doing circus show
-STR_1118    :Operating
-STR_1119    :Waiting for cable lift
-STR_1120    :Travelling at {VELOCITY}
-STR_1121    :Stopping
-STR_1122    :Waiting for passengers
-STR_1123    :Waiting to start
-STR_1124    :Starting
-STR_1125    :Operating
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
-STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colours
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1080    :ฟิล์ม: {ENDQUOTES}ล้างแค้นนักบิน{ENDQUOTES}
+STR_1081    :3D ฟิล์ม: {ENDQUOTES}หางของเมาส์{ENDQUOTES}
+STR_1082    :โหมดวงแหวนอวกาศ
+STR_1083    :โหมดผู้เริ่มต้น
+STR_1084    :LIM-เปิดตัวขับเคลื่อน
+STR_1085    :ฟิล์ม: {ENDQUOTES}Thrill riders{ENDQUOTES}
+STR_1086    :3D ฟิล์ม: {ENDQUOTES}Storm chasers{ENDQUOTES}
+STR_1087    :3D ฟิล์ม: {ENDQUOTES}Space raiders{ENDQUOTES}
+STR_1088    :โหมดเข้มข้น
+STR_1089    :บ้าดีเดือด โหมด
+STR_1090    :โหมดบ้านผีสิง
+STR_1091    :โหมดการแสดงละครสัตว์
+STR_1092    :เปิดตัวลง
+STR_1093    :บ้านเบี้ยว โหมด
+STR_1094    :โหมดตกหล่นฟรี
+STR_1095    :โหมดแบ่งหมวดหมู่วงจรต่อเนื่อง
+STR_1096    :การเปิดตัวแบบขับเคลื่อน (โดยไม่ผ่านสถานี)
+STR_1097    :ขับเคลื่อน เปิดใช้โหมดแบ่งบล็อก
+STR_1098    :ย้ายไปที่จุดสิ้นสุดของ {POP16}{STRINGID}
+STR_1099    :กำลังรอผู้โดยสารที่ {POP16}{STRINGID}
+STR_1100    :กำลังรอออก {POP16}{STRINGID}
+STR_1101    :แยกย้ายกันไป {POP16}{STRINGID}
+STR_1102    :การเดินทางที่ {VELOCITY}
+STR_1103    :มาถึง {POP16}{STRINGID}
+STR_1104    :การขนผู้โดยสารที่ {POP16}{STRINGID}
+STR_1105    :การเดินทางที่ {VELOCITY}
+STR_1106    :ล้ม!
+STR_1107    :ล้มเหลว!
+STR_1108    :การเดินทางที่ {VELOCITY}
+STR_1109    :ที่แกว่ง
+STR_1110    :หมุน
+STR_1111    :หมุน
+STR_1112    :การดำเนินงาน
+STR_1113    :กำลังแสดงภาพยนตร์
+STR_1114    :หมุน
+STR_1115    :การดำเนินงาน
+STR_1116    :การดำเนินงาน
+STR_1117    :การแสดงละครสัตว์
+STR_1118    :การดำเนินงาน
+STR_1119    :กำลังรอสายเคเบิลยก
+STR_1120    :การเดินทางที่ {VELOCITY}
+STR_1121    :การหยุด
+STR_1122    :กำลังรอผู้โดยสาร
+STR_1123    :กำลังรอที่จะเริ่มต้น
+STR_1124    :ที่เริ่มต้น
+STR_1125    :การดำเนินงาน
+STR_1126    :การหยุด
+STR_1127    :การขนผู้โดยสาร
+STR_1128    :หยุดโดยการป้องกันเบรค
+STR_1129    :ยานพาหนะที่มีสีเดียวกัน
+STR_1130    :สีที่ต่างกันต่อ {STRINGID}
+STR_1131    :สีที่ต่างกันสำหรับแต่ละรถ
+STR_1132    :พาหนะ {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :พาหนะ {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main colour
-STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
-STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
+STR_1136    :{SMALLFONT}{BLACK}เลือกสีหลัก
+STR_1137    :{SMALLFONT}{BLACK}เลือกสีเพิ่มเติม 1
+STR_1138    :{SMALLFONT}{BLACK}เลือกสีเพิ่มเติม 2
+STR_1139    :{SMALLFONT}{BLACK}เลือกสีโครงสร้างการสนับสนุน
+STR_1140    :{SMALLFONT}{BLACK}เลือกตัวเลือกสีรถ
+STR_1141    :{SMALLFONT}{BLACK}เลือกยานพาหนะ / รถไฟที่จะปรับเปลี่ยน
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1144    :Can't build/move entrance for this ride/attraction...
-STR_1145    :Can't build/move exit for this ride/attraction...
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
-STR_1148    :Quarter load
-STR_1149    :Half load
-STR_1150    :Three-quarter load
-STR_1151    :Full load
-STR_1152    :Any load
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1144    :ไม่สามารถสร้าง / ย้ายทางเข้าสำหรับรถคันนี้ / สถานที่ท่องเที่ยว ...
+STR_1145    :ไม่สามารถสร้าง / ย้ายทางออกสำหรับการนั่ง / สถานที่นี้ได้ ...
+STR_1146    :ทางเข้ายังไม่ได้สร้าง
+STR_1147    :ทางออกยังไม่ได้สร้างขึ้น
+STR_1148    :โหลดรายไตรมาส
+STR_1149    :โหลดครึ่งหนึ่ง
+STR_1150    :โหลดสามในสี่
+STR_1151    :โหลดเต็มที่
+STR_1152    :โหลดใด ๆ
+STR_1153    :เครื่องหมายความสูงบนรางรถไฟ
+STR_1154    :เครื่องหมายความสูงบนพื้นดิน
+STR_1155    :เครื่องหมายความสูงบนเส้นทาง
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1158    :Can't remove this...
-STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
-STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
-STR_1161    :Can't position this here...
+STR_1158    :ไม่สามารถลบรายการนี้ได้ ...
+STR_1159    :{SMALLFONT}{BLACK}วางทัศนียภาพสวนหย่อมและอุปกรณ์อื่น ๆ
+STR_1160    :{SMALLFONT}{BLACK}สร้าง / ปรับทะเลสาบและน้ำ
+STR_1161    :ไม่สามารถวางตำแหน่งนี้ได้ที่นี่ ...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
-STR_1163    :{STRINGID}{NEWLINE}(Right-Click to Modify)
-STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
+STR_1163    :{STRINGID}{NEWLINE}(คลิกขวาเพื่อแก้ไข)
+STR_1164    :{STRINGID}{NEWLINE}(คลิกขวาเพื่อลบ)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1166    :Can't lower water level here...
-STR_1167    :Can't raise water level here...
-STR_1168    :Options
+STR_1166    :ไม่สามารถลดระดับน้ำที่นี่ ...
+STR_1167    :ไม่สามารถยกระดับน้ำที่นี่ ...
+STR_1168    :ตัวเลือก
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed - - 
+STR_1171    :{RED}ปิด - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
-STR_1174    :Banner sign in the way
-STR_1175    :Can't build this on sloped footpath
-STR_1176    :Can't build footpath here...
-STR_1177    :Can't remove footpath from here...
-STR_1178    :Land slope unsuitable
-STR_1179    :Footpath in the way
-STR_1180    :Can't build this underwater!
-STR_1181    :Footpaths
-STR_1182    :Type
-STR_1183    :Direction
-STR_1184    :Slope
-STR_1185    :{SMALLFONT}{BLACK}Direction
-STR_1186    :{SMALLFONT}{BLACK}Slope down
-STR_1187    :{SMALLFONT}{BLACK}Level
-STR_1188    :{SMALLFONT}{BLACK}Slope up
-STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
-STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
+STR_1173    :{SMALLFONT}{BLACK}สร้างเส้นทางเดินเท้าและแถว
+STR_1174    :แบนเนอร์เข้าสู่ระบบ
+STR_1175    :ไม่สามารถสร้างทางเท้านี้ได้
+STR_1176    :ไม่สามารถสร้างทางเท้าได้ที่นี่ ...
+STR_1177    :ไม่สามารถเอาเส้นทางเดินเท้าออกจากที่นี่ได้
+STR_1178    :ความลาดชันของที่ดินไม่เหมาะสม
+STR_1179    :ทางเดินในทาง
+STR_1180    :ไม่สามารถสร้างน้ำใต้น้ำได้!
+STR_1181    :ทางเท้า
+STR_1182    :ชนิด
+STR_1183    :ทิศทาง
+STR_1184    :ลาด
+STR_1185    :{SMALLFONT}{BLACK}ทิศทาง
+STR_1186    :{SMALLFONT}{BLACK}ลาดลง
+STR_1187    :{SMALLFONT}{BLACK}ชั้น
+STR_1188    :{SMALLFONT}{BLACK}ลาดขึ้น
+STR_1189    :{SMALLFONT}{BLACK}สร้างส่วนทางเดินเท้าที่เลือก
+STR_1190    :{SMALLFONT}{BLACK}ลบส่วนทางเท้าก่อนหน้านี้
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
-STR_1194    :Closed
-STR_1195    :Test Run
-STR_1196    :Open
-STR_1197    :Broken Down
-STR_1198    :Crashed!
-STR_1199    :{COMMA16} person on ride
-STR_1200    :{COMMA16} people on ride
-STR_1201    :Nobody in queue line
-STR_1202    :1 person in queue line
-STR_1203    :{COMMA16} people in queue line
-STR_1204    :{COMMA16} minute queue time
-STR_1205    :{COMMA16} minutes queue time
-STR_1206    :{WINDOW_COLOUR_2}Wait for:
-STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
-STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
-STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
-STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
-STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
-STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
-STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
-STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
-STR_1217    :{COMMA16} seconds
+STR_1194    :ปิด
+STR_1195    :ทดสอบการทำงาน
+STR_1196    :เปิด
+STR_1197    :หักลง
+STR_1198    :ล้มเหลว!
+STR_1199    :{COMMA16} คนขี่
+STR_1200    :{COMMA16} คนขี่
+STR_1201    :ไม่มีใครอยู่ในแถวคิว
+STR_1202    :1 คนในแถว
+STR_1203    :{COMMA16} คนแถวหน้า
+STR_1204    :{COMMA16} นาทีคิว
+STR_1205    :{COMMA16} นาทีคิวเวลา
+STR_1206    :{WINDOW_COLOUR_2}รอ:
+STR_1207    :{WINDOW_COLOUR_2}ออกเดินทางถ้ารถไฟมาถึงสถานีอื่น
+STR_1208    :{WINDOW_COLOUR_2}ออกเดินทางถ้าเรือลำอื่นมาถึงสถานี
+STR_1209    :{SMALLFONT}{BLACK}เลือกว่าควรรอผู้โดยสารก่อนเดินทางหรือไม่
+STR_1210    :{SMALLFONT}{BLACK}เลือกว่าจะออกไปถ้ารถคันอื่นมาถึงที่สถานีเดียวกัน
+STR_1211    :{WINDOW_COLOUR_2}เวลารอคอยขั้นต่ำ:
+STR_1212    :{WINDOW_COLOUR_2}เวลารอคอยสูงสุด:
+STR_1213    :{SMALLFONT}{BLACK}เลือกระยะเวลาขั้นต่ำที่ต้องรอก่อนออกเดินทาง
+STR_1214    :{SMALLFONT}{BLACK}เลือกระยะเวลาสูงสุดที่ต้องรอก่อนออกเดินทาง
+STR_1215    :{WINDOW_COLOUR_2}ซิงโครไนซ์กับสถานีที่อยู่ติดกัน
+STR_1216    :{SMALLFONT}{BLACK}เลือกว่าจะซิงค์การเดินทางกับสถานีที่อยู่ติดกันทั้งหมด (สำหรับ 'แข่งรถ') หรือไม่
+STR_1217    :{COMMA16} วินาที
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
-STR_1220    :Exit only
-STR_1221    :No entrance
-STR_1222    :No exit
-STR_1223    :{SMALLFONT}{BLACK}Transport rides
-STR_1224    :{SMALLFONT}{BLACK}Gentle rides
-STR_1225    :{SMALLFONT}{BLACK}Roller coasters
-STR_1226    :{SMALLFONT}{BLACK}Thrill rides
-STR_1227    :{SMALLFONT}{BLACK}Water rides
-STR_1228    :{SMALLFONT}{BLACK}Shops & stalls
-STR_1229    :train
+STR_1220    :ทางออกเท่านั้น
+STR_1221    :ไม่มีทางเข้า
+STR_1222    :ไม่มีทางออก
+STR_1223    :{SMALLFONT}{BLACK}การขนส่ง
+STR_1224    :{SMALLFONT}{BLACK}ขี่เบา ๆ
+STR_1225    :{SMALLFONT}{BLACK}รถไฟเหาะ
+STR_1226    :{SMALLFONT}{BLACK}ตื่นเต้นเร้าใจ
+STR_1227    :{SMALLFONT}{BLACK}ขี่น้ำ
+STR_1228    :{SMALLFONT}{BLACK}ร้านค้าและคอกม้า
+STR_1229    :รถไฟ
 STR_1230    :trains
-STR_1231    :Train
-STR_1232    :Trains
-STR_1233    :{COMMA16} train
-STR_1234    :{COMMA16} trains
-STR_1235    :Train {COMMA16}
-STR_1236    :boat
-STR_1237    :boats
-STR_1238    :Boat
-STR_1239    :Boats
-STR_1240    :{COMMA16} boat
-STR_1241    :{COMMA16} boats
-STR_1242    :Boat {COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
-STR_1249    :Track {COMMA16}
-STR_1250    :docking platform
-STR_1251    :docking platforms
-STR_1252    :Docking platform
-STR_1253    :Docking platforms
-STR_1254    :{COMMA16} docking platform
-STR_1255    :{COMMA16} docking platforms
-STR_1256    :Docking platform {COMMA16}
-STR_1257    :station
-STR_1258    :stations
-STR_1259    :Station
-STR_1260    :Stations
-STR_1261    :{COMMA16} station
-STR_1262    :{COMMA16} stations
-STR_1263    :Station {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
-STR_1271    :building
-STR_1272    :buildings
-STR_1273    :Building
-STR_1274    :Buildings
-STR_1275    :{COMMA16} building
-STR_1276    :{COMMA16} buildings
-STR_1277    :Building {COMMA16}
-STR_1278    :structure
-STR_1279    :structures
-STR_1280    :Structure
-STR_1281    :Structures
-STR_1282    :{COMMA16} structure
-STR_1283    :{COMMA16} structures
-STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
-STR_1292    :cabin
-STR_1293    :cabins
-STR_1294    :Cabin
-STR_1295    :Cabins
-STR_1296    :{COMMA16} cabin
-STR_1297    :{COMMA16} cabins
-STR_1298    :Cabin {COMMA16}
-STR_1299    :wheel
-STR_1300    :wheels
-STR_1301    :Wheel
-STR_1302    :Wheels
-STR_1303    :{COMMA16} wheel
-STR_1304    :{COMMA16} wheels
-STR_1305    :Wheel {COMMA16}
-STR_1306    :ring
-STR_1307    :rings
-STR_1308    :Ring
-STR_1309    :Rings
-STR_1310    :{COMMA16} ring
-STR_1311    :{COMMA16} rings
-STR_1312    :Ring {COMMA16}
-STR_1313    :player
-STR_1314    :players
-STR_1315    :Player
-STR_1316    :Players
-STR_1317    :{COMMA16} player
-STR_1318    :{COMMA16} players
-STR_1319    :Player {COMMA16}
-STR_1320    :course
-STR_1321    :courses
-STR_1322    :Course
-STR_1323    :Courses
-STR_1324    :{COMMA16} course
-STR_1325    :{COMMA16} courses
-STR_1326    :Course {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Rotate objects by 90{DEGREE}
-STR_1328    :Level land required
-STR_1329    :{WINDOW_COLOUR_2}Launch speed:
-STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
+STR_1231    :รถไฟ
+STR_1232    :รถไฟ
+STR_1233    :{COMMA16} รถไฟ
+STR_1234    :{COMMA16} รถไฟ
+STR_1235    :รถไฟ {COMMA16}
+STR_1236    :เรือ
+STR_1237    :เรือ
+STR_1238    :เรือ
+STR_1239    :เรือ
+STR_1240    :{COMMA16} เรือ
+STR_1241    :{COMMA16} เรือ
+STR_1242    :เรือ {COMMA16}
+STR_1243    :ลู่
+STR_1244    :แทร็ค
+STR_1245    :ลู่
+STR_1246    :แทร็ค
+STR_1247    :{COMMA16} ลู่
+STR_1248    :{COMMA16} แทร็ค
+STR_1249    :ลู่ {COMMA16}
+STR_1250    :แท่นวาง
+STR_1251    :แท่นวาง
+STR_1252    :แท่นวาง
+STR_1253    :แท่นวาง
+STR_1254    :{COMMA16} แท่นวาง
+STR_1255    :{COMMA16} แท่นวาง
+STR_1256    :แท่นวาง {COMMA16}
+STR_1257    :สถานี
+STR_1258    :สถานี
+STR_1259    :สถานี
+STR_1260    :สถานี
+STR_1261    :{COMMA16} สถานี
+STR_1262    :{COMMA16} สถานี
+STR_1263    :สถานี {COMMA16}
+STR_1264    :รถ
+STR_1265    :รถ
+STR_1266    :รถ
+STR_1267    :รถ
+STR_1268    :{COMMA16} รถ
+STR_1269    :{COMMA16} รถ
+STR_1270    :รถ {COMMA16}
+STR_1271    :อาคาร
+STR_1272    :สิ่งปลูกสร้าง
+STR_1273    :อาคาร
+STR_1274    :สิ่งปลูกสร้าง
+STR_1275    :{COMMA16} อาคาร
+STR_1276    :{COMMA16} สิ่งปลูกสร้าง
+STR_1277    :อาคาร {COMMA16}
+STR_1278    :โครงสร้าง
+STR_1279    :โครงสร้าง
+STR_1280    :โครงสร้าง
+STR_1281    :โครงสร้าง
+STR_1282    :{COMMA16} โครงสร้าง
+STR_1283    :{COMMA16} โครงสร้าง
+STR_1284    :โครงสร้าง {COMMA16}
+STR_1285    :เรือ
+STR_1286    :เรือ
+STR_1287    :เรือ
+STR_1288    :เรือ
+STR_1289    :{COMMA16} เรือ
+STR_1290    :{COMMA16} เรือ
+STR_1291    :เรือ {COMMA16}
+STR_1292    :กระท่อม
+STR_1293    :กระท่อม
+STR_1294    :กระท่อม
+STR_1295    :กระท่อม
+STR_1296    :{COMMA16} กระท่อม
+STR_1297    :{COMMA16} กระท่อม
+STR_1298    :กระท่อม {COMMA16}
+STR_1299    :ล้อ
+STR_1300    :ล้อ
+STR_1301    :ล้อ
+STR_1302    :ล้อ
+STR_1303    :{COMMA16} ล้อ
+STR_1304    :{COMMA16} ล้อ
+STR_1305    :ล้อ {COMMA16}
+STR_1306    :แหวน
+STR_1307    :แหวน
+STR_1308    :แหวน
+STR_1309    :แหวน
+STR_1310    :{COMMA16} แหวน
+STR_1311    :{COMMA16} แหวน
+STR_1312    :แหวน {COMMA16}
+STR_1313    :ผู้เล่น
+STR_1314    :ผู้เล่น
+STR_1315    :ผู้เล่น
+STR_1316    :ผู้เล่น
+STR_1317    :{COMMA16} ผู้เล่น
+STR_1318    :{COMMA16} ผู้เล่น
+STR_1319    :ผู้เล่น {COMMA16}
+STR_1320    :หลักสูตร
+STR_1321    :หลักสูตร
+STR_1322    :หลักสูตร
+STR_1323    :หลักสูตร
+STR_1324    :{COMMA16} หลักสูตร
+STR_1325    :{COMMA16} หลักสูตร
+STR_1326    :หลักสูตร {COMMA16}
+STR_1327    :{SMALLFONT}{BLACK}หมุนวัตถุด้วย 90{DEGREE}
+STR_1328    :ระดับที่ดินที่ต้องการ
+STR_1329    :{WINDOW_COLOUR_2}ความเร็วในการเปิดตัว::
+STR_1330    :{SMALLFONT}{BLACK}ความเร็วสูงสุดเมื่อออกจากสถานี
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
-STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
-STR_1337    :{STRINGID} - Exit{POP16}{POP16}
-STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1335    :{STRINGID} - ทางเข้า{POP16}{POP16}
+STR_1336    :{STRINGID} - สถานี {POP16}{COMMA16} ทางเข้า
+STR_1337    :{STRINGID} - ทางออก{POP16}{POP16}
+STR_1338    :{STRINGID} - สถานี {POP16}{COMMA16} ทางออก
+STR_1339    :{BLACK}ยังไม่มีผลการทดสอบ ...
+STR_1340    :{WINDOW_COLOUR_2}แม็กซ์ ความเร็ว: {BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}เวลาขี่: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}ความยาวนั่ง: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
-STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
-STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
-STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
-STR_1361    :Can't change speed...
-STR_1362    :Can't change launch speed...
-STR_1363    :Too high for supports!
-STR_1364    :Supports for track above can't be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
-STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1347    :{WINDOW_COLOUR_2}ความเร็วเฉลี่ย: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}แม็กซ์ บวกแนวตั้งของ G's: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}แม็กซ์ บวกแนวตั้งของ G's: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}แม็กซ์ แนวตั้งเชิงลบของ G's: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}แม็กซ์ แนวตั้งเชิงลบของ G's: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}แม็กซ์ ด้านข้าง G's: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}แม็กซ์ ด้านข้าง G's: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}ความสูงที่สูงที่สุด: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}ยาหยอด: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}การผกผัน: {BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}หลุม: {BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}เวลา 'อากาศ' ทั้งหมด: {BLACK}{COMMA2DP32}วินาที
+STR_1359    :{WINDOW_COLOUR_2}เวลาในคิว: {BLACK}{COMMA16} นาที
+STR_1360    :{WINDOW_COLOUR_2}เวลาในคิว: {BLACK}{COMMA16} นาที
+STR_1361    :ไม่สามารถเปลี่ยนความเร็วได้ ...
+STR_1362    :ไม่สามารถเปลี่ยนความเร็วในการเปิดตัว ...
+STR_1363    :สูงเกินไปสำหรับการสนับสนุน!
+STR_1364    :รองรับแทร็กข้างต้นไม่สามารถขยายได้อีก!
+STR_1365    :บิดแบบอินไลน์ (ซ้าย)
+STR_1366    :บิดในบรรทัด (ขวา)
+STR_1367    :ครึ่ง ห่วง
+STR_1368    :เกลียวครึ่งตัว (ซ้าย)
+STR_1369    :เกลียวครึ่งตัว (ขวา)
+STR_1370    :บาร์เรลม้วน (ซ้าย)
+STR_1371    :บาร์เรลม้วน (ขวา)
+STR_1372    :เปิดตัว ลิฟท์ฮิลล์
+STR_1373    :ห่วงครึ่งวงกลมขนาดใหญ่ (ซ้าย)
+STR_1374    :ลูปครึ่งวงกลมขนาดใหญ่ (ขวา)
+STR_1375    :การถ่ายโอนข้อมูลส่วนบน
+STR_1376    :การโอนที่ต่ำลง
+STR_1377    :เส้นหัวใจม้วน (ซ้าย)
+STR_1378    :เส้นหัวใจม้วน (ขวา)
+STR_1379    :ผู้ยกเลิก (ซ้าย)
+STR_1380    :ผู้ยกเลิก (ขวา)
+STR_1381    :เนินเขาโค้งโค้ง (ซ้าย)
+STR_1382    :เนินเขาโค้งโค้ง (ขวา)
+STR_1383    :ย่าน ห่วง
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
-STR_1387    :Can't change land type...
+STR_1385    :{SMALLFONT}{BLACK}การกำหนดค่าแทร็กอื่น ๆ
+STR_1386    :พิเศษ...
+STR_1387    :ไม่สามารถเปลี่ยนชนิดของที่ดิน ...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
-STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
-STR_1394    :{SMALLFONT}{BLACK}Operating options
-STR_1395    :{SMALLFONT}{BLACK}Maintenance options
-STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
-STR_1397    :{SMALLFONT}{BLACK}Sound & music options
-STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
-STR_1399    :{SMALLFONT}{BLACK}Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
-STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
-STR_1405    :{SMALLFONT}{BLACK}Mirror image
-STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
-STR_1407    :{WINDOW_COLOUR_2}Build this...
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
-STR_1409    :Entry/Exit Platform
-STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
-STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
-STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
+STR_1392    :{SMALLFONT}{BLACK}มุมมองของการนั่ง / สถานที่น่าสนใจ
+STR_1393    :{SMALLFONT}{BLACK}รายละเอียดและตัวเลือกยานพาหนะ
+STR_1394    :{SMALLFONT}{BLACK}ตัวเลือกการใช้งาน
+STR_1395    :{SMALLFONT}{BLACK}ตัวเลือกการบำรุงรักษา
+STR_1396    :{SMALLFONT}{BLACK}ตัวเลือกสี
+STR_1397    :{SMALLFONT}{BLACK}ตัวเลือกเสียงและดนตรี
+STR_1398    :{SMALLFONT}{BLACK}การวัดและข้อมูลการทดสอบ
+STR_1399    :{SMALLFONT}{BLACK}กราฟ
+STR_1400    :ทางเข้า
+STR_1401    :ทางออก
+STR_1402    :{SMALLFONT}{BLACK}สร้างหรือย้ายทางเข้าที่จะนั่ง / ดึงดูด
+STR_1403    :{SMALLFONT}{BLACK}สร้างหรือย้ายออกจากรถ / สถานที่ท่องเที่ยว
+STR_1404    :{SMALLFONT}{BLACK}หมุน 90{DEGREE}
+STR_1405    :{SMALLFONT}{BLACK}ภาพสะท้อน
+STR_1406    :{SMALLFONT}{BLACK}เปิด / ปิดทิวทัศน์ (ถ้ามีให้ใช้สำหรับการออกแบบนี้)
+STR_1407    :{WINDOW_COLOUR_2}สร้างสิ่งนี้ ...
+STR_1408    :{WINDOW_COLOUR_2}ค่าใช้จ่าย : {BLACK}{CURRENCY}
+STR_1409    :แพลตฟอร์มการเข้า / ออก
+STR_1410    :ทาวเวอร์แนวตั้ง
+STR_1411    :{STRINGID} ในทาง
+STR_1412    :{WINDOW_COLOUR_3}ไม่สามารถบันทึกข้อมูลได้สำหรับการนั่งประเภทนี้
+STR_1413    :{WINDOW_COLOUR_3}การบันทึกข้อมูลจะเริ่มขึ้นเมื่อต่อไป {STRINGID} ใบไม้ {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
+STR_1415    :{WINDOW_COLOUR_2}ความเร็ว
+STR_1416    :{WINDOW_COLOUR_2}ระดับความสูง
 STR_1417    :{WINDOW_COLOUR_2}Vert.G's
 STR_1418    :{WINDOW_COLOUR_2}Lat.G's
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Queue line path
-STR_1424    :{SMALLFONT}{BLACK}Footpath
-STR_1425    :Footpath
-STR_1426    :Queue Line
-STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
-STR_1428    :{WINDOW_COLOUR_2}Admission price:
+STR_1422    :{SMALLFONT}{BLACK}บันทึกข้อมูลจาก{POP16}{STRINGID}
+STR_1423    :{SMALLFONT}{BLACK}เส้นทางของแถวเส้นทาง
+STR_1424    :{SMALLFONT}{BLACK}ฟุตบาท
+STR_1425    :ฟุตบาท
+STR_1426    :แถวแถว
+STR_1427    :{WINDOW_COLOUR_2}ลูกค้า: {BLACK}{COMMA32} ต่อชั่วโมง
+STR_1428    :{WINDOW_COLOUR_2}ราคาค่าเข้าชม:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Free
-STR_1431    :Walking
-STR_1432    :Heading for {STRINGID}
-STR_1433    :Queuing for {STRINGID}
-STR_1434    :Drowning
-STR_1435    :On {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
-STR_1438    :Sitting
-STR_1439    :(select location)
-STR_1440    :Mowing grass
-STR_1441    :Sweeping footpath
-STR_1442    :Emptying litter bin
-STR_1443    :Watering gardens
-STR_1444    :Watching {STRINGID}
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
-STR_1447    :Leaving the park
-STR_1448    :Watching new ride being constructed
+STR_1430    :ฟรี
+STR_1431    :ที่เดิน
+STR_1432    :มุ่งหน้าไปที่ {STRINGID}
+STR_1433    :การจัดคิว {STRINGID}
+STR_1434    :การจมน้ำตาย
+STR_1435    :บน {STRINGID}
+STR_1436    :ใน {STRINGID}
+STR_1437    :ที่ {STRINGID}
+STR_1438    :นั่ง
+STR_1439    :(เลือกตำแหน่ง)
+STR_1440    :ตัดหญ้า
+STR_1441    :เดินเล่น
+STR_1442    :ล้างที่ทิ้งขยะ
+STR_1443    :รดน้ำสวน
+STR_1444    :การเฝ้าดู {STRINGID}
+STR_1445    :ดูการก่อสร้าง {STRINGID}
+STR_1446    :มองไปที่ทิวทัศน์
+STR_1447    :ออกจากสวน
+STR_1448    :ดูการนั่งใหม่ที่กำลังสร้างขึ้น
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Guest's name
-STR_1453    :Enter name for this guest:
-STR_1454    :Can't name guest...
-STR_1455    :Invalid name for guest
-STR_1456    :{WINDOW_COLOUR_2}Cash spent: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Cash in pocket: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Time in park: {BLACK}{REALTIME}
-STR_1459    :Track style
+STR_1452    :ชื่อแขก
+STR_1453    :ป้อนชื่อสำหรับผู้เข้าร่วมคนนี้:
+STR_1454    :ไม่สามารถตั้งชื่อผู้เยี่ยมชม ...
+STR_1455    :ชื่อผู้เข้าพักไม่ถูกต้อง
+STR_1456    :{WINDOW_COLOUR_2}เงินสดที่ใช้ไป: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}เงินสดในกระเป๋า: {BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}เวลาในสวนสาธารณะ: {BLACK}{REALTIME}
+STR_1459    :ติดตามสไตล์
 STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
@@ -4888,18 +4888,18 @@ STR_DTLS    :
 
 #RCT2
 [TOPSP1]
-STR_NAME    :Top Spin
-STR_DESC    :Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels
-STR_CPTY    :8 passengers
+STR_NAME    :ปั่นด้านบน
+STR_DESC    :ผู้โดยสารนั่งเรือแจวลอยด้วยแขนหมุนขนาดใหญ่หมุนไปข้างหน้าและถอยหลังหัวเข่า
+STR_CPTY    :8 ผู้โดยสาร
 
 #WW
 [CONDORRD]
-STR_NAME    :Condor Ride
-STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
-STR_CPTY    :4 passengers per car
+STR_NAME    :นกจำพวกแร้ง ขี่
+STR_DESC    :ขี่ม้าพิเศษที่อยู่ด้านล่างแทร็คผู้ขับขี่จะได้สัมผัสกับความรู้สึกของการบินขณะล่องลอยผ่านอากาศในรถไฟแร้ง
+STR_CPTY    :ผู้โดยสาร 4 คนต่อรถ
 
 #WW
 [CONGAEEL]
-STR_NAME    :Conger Eel Coaster
-STR_DESC    :A compact steel-tracked roller coaster where the Eel-shaped train travels through corkscrews and loops
-STR_CPTY    :4 passengers per car
+STR_NAME    :ปลาตูนา ปลาไหล เรือยามฝั่ง
+STR_DESC    :รถไฟเหาะตีลังกาที่มีขนาดกะทัดรัดซึ่งรถไฟรูปลูกเต๋าเดินทางผ่านเกลียวและวงแหวน
+STR_CPTY    :ผู้โดยสาร 4 คนต่อรถ
