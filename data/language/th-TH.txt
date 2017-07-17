@@ -572,217 +572,217 @@ STR_0567    :นั่งอยู่ในที่นั่งระงับ�
 STR_0568    :<removed string - do not use>
 STR_0569    :ขี่ม้าพิเศษที่อยู่ด้านล่างของแทร็คผู้ขับขี่จะได้สัมผัสกับความรู้สึกของเที่ยวบินขณะล่องลอยไปในอากาศ
 STR_0570    :<removed string - do not use>
-STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash
-STR_0573    :Powered helicopter shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travelling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
+STR_0571    :รถหมุนหมุนรอบขณะเดินทางตามแนวไม้ซุง
+STR_0572    :เรือที่มีกำลังการผลิตขนาดใหญ่เดินทางไปตามช่องทางน้ำกว้างขับเคลื่อนเนินเขาโดยสายพานลำเลียงซึ่งจะช่วยเพิ่มความลาดชันให้กับผู้ขับขี่ด้วยการยักษ์
+STR_0573    :ขับเคลื่อนด้วยเฮลิคอปเตอร์รูปรถวิ่งบนรางเหล็กควบคุมโดยการเหยียบของผู้ขับขี่
+STR_0574    :ผู้ขับขี่ถืออยู่ในรั้งพิเศษในตำแหน่งนอนคว่ำเดินทางผ่านทางบิดและสิ่งที่ตรงกันข้ามทั้งบนหลังของพวกเขาหรือหันหน้าไปทางพื้น
+STR_0575    :รถไฟขับเคลื่อนที่ห้อยลงมาจากคนเดียวที่ส่งคนไปรอบ ๆ สวน
 STR_0576    :<removed string - do not use>
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
-STR_0579    :A gentle game of miniature golf
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
-STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
-STR_0582    :Self-drive hovercraft vehicles
-STR_0583    :Building containing warped rooms and angled corridors to disorientate people walking through it
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
-STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
-STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
-STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
-STR_0589    :A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms
-STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
+STR_0577    :รถยนต์ที่วิ่งเล่นอยู่บนแทร็กไม้หันหน้าไปทางส่วนการพลิกกลับพิเศษ
+STR_0578    :รถวิ่งไปตามทางที่ล้อมรอบด้วยห่วงวงกลมไหลผ่านชันที่ลดลงและบิดเกลียว
+STR_0579    :เกมอ่อนโยนของสนามกอล์ฟขนาดเล็ก
+STR_0580    :รถไฟเหาะตีลังกาขนาดยักษ์ที่มีความสามารถในการหยดและเนินเขาที่ราบเรียบกว่า 300 ฟุต
+STR_0581    :วงแหวนที่นั่งถูกดึงขึ้นไปที่ด้านบนของหอคอยสูงขณะหมุนเบา ๆ แล้วปล่อยให้หลุดร่วงลงอย่างช้าๆและหยุดเบา ๆ ที่ด้านล่างโดยใช้เบรกแม่เหล็ก
+STR_0582    :รถขับเคลื่อนด้วยตนเอง
+STR_0583    :อาคารที่มีห้องพักที่บิดเบี้ยวและทางเดินมุมเพื่อทำให้คนสับสนในการเดินผ่าน
+STR_0584    :รถจักรยานพิเศษวิ่งบนรางรถไฟรางเดียวที่ขับเคลื่อนด้วยการเหยียบรถของผู้ขับขี่
+STR_0585    :ผู้นั่งนั่งอยู่ในที่นั่งคู่ระดมอยู่ใต้รางรถไฟขณะที่วนรอบและบิดตัวผ่านการผันกลับแน่น ๆ
+STR_0586    :เรือที่มีรูปทรงเป็นรูปเรือวิ่งบนรางรถไฟเหาะตีลังกาเพื่อช่วยให้เกิดเส้นโค้งบิดและชันที่ตกลงมากระเซ็นลงไปในส่วนของน้ำสำหรับส่วนของแม่น้ำอ่อนโยน
+STR_0587    :หลังจากที่มีการเปิดตัวระบบขับเคลื่อนด้วยอากาศที่ทำให้ดีอกดีใจรถไฟจะเร่งความเร็วในแนวตั้งขึ้นเหนือยอดและแนวตั้งลงไปอีกฟากหนึ่งเพื่อกลับไปยังสถานี
+STR_0588    :รถยนต์ส่วนบุคคลวิ่งอยู่ใต้เส้นทางซิกแซกซิ่งกับการปิ่นปักผมและหยดคม
+STR_0589    :พรมบินขนาดใหญ่ที่มีธีมซึ่งเคลื่อนที่ขึ้นและลงเป็นวงกลมบนปลายแขน 4 ข้าง
+STR_0590    :ผู้ขับขี่นั่งเรือดำน้ำจมอยู่ใต้น้ำ
+STR_0591    :เรือรูปล่องเรือค่อย ๆ คดเคี้ยวไปตามแนวลุ่มน้ำ
 STR_0592    :<removed string - do not use>
-STR_0593    :Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm
+STR_0593    :ล้อหมุนที่มีชุดเบรคผู้โดยสารที่เริ่มหมุนและเอียงขึ้นด้วยแขนรองรับ
 STR_0594    :<removed string - do not use>
 STR_0595    :<removed string - do not use>
 STR_0596    :<removed string - do not use>
 STR_0597    :<removed string - do not use>
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
-STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
+STR_0598    :รถไฟเหาะตีกลับจะเร่งออกจากสถานีเพื่อเดินทางไปตามแนวแนวตั้งจากนั้นย้อนกลับไปยังสถานีเพื่อเดินทางกลับไปตามแนวแนวตั้งอีกครั้ง
+STR_0599    :รถไฟเหาะขนาดกะทัดรัดกับรถแต่ละคันและหยดบิดเรียบ
+STR_0600    :ขับเคลื่อนการฝึกอาชีพเหมืองแร่ตามรูปแบบแทร็กที่ราบรื่นและบิดเบี้ยว
 STR_0601    :<removed string - do not use>
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :Guest {INT32}
-STR_0604    :Guest {INT32}
-STR_0605    :Guest {INT32}
-STR_0606    :Guest {INT32}
-STR_0607    :Guest {INT32}
-STR_0608    :Guest {INT32}
-STR_0609    :Guest {INT32}
-STR_0610    :Guest {INT32}
-STR_0611    :Guest {INT32}
-STR_0612    :Guest {INT32}
-STR_0613    :Guest {INT32}
-STR_0614    :Guest {INT32}
-STR_0615    :Guest {INT32}
-STR_0616    :Guest {INT32}
-STR_0617    :Guest {INT32}
-STR_0618    :Guest {INT32}
-STR_0619    :Guest {INT32}
-STR_0620    :Guest {INT32}
-STR_0621    :Guest {INT32}
-STR_0622    :Guest {INT32}
-STR_0623    :Guest {INT32}
-STR_0624    :Guest {INT32}
-STR_0625    :Guest {INT32}
-STR_0626    :Guest {INT32}
-STR_0627    :Guest {INT32}
-STR_0628    :Guest {INT32}
-STR_0629    :Guest {INT32}
-STR_0630    :Guest {INT32}
-STR_0631    :Guest {INT32}
-STR_0632    :Guest {INT32}
-STR_0633    :Guest {INT32}
-STR_0634    :Guest {INT32}
-STR_0635    :Guest {INT32}
-STR_0636    :Guest {INT32}
-STR_0637    :Guest {INT32}
-STR_0638    :Guest {INT32}
-STR_0639    :Guest {INT32}
-STR_0640    :Guest {INT32}
-STR_0641    :Guest {INT32}
-STR_0642    :Guest {INT32}
-STR_0643    :Guest {INT32}
-STR_0644    :Guest {INT32}
-STR_0645    :Guest {INT32}
-STR_0646    :Guest {INT32}
-STR_0647    :Guest {INT32}
-STR_0648    :Guest {INT32}
-STR_0649    :Guest {INT32}
-STR_0650    :Guest {INT32}
-STR_0651    :Guest {INT32}
-STR_0652    :Guest {INT32}
-STR_0653    :Guest {INT32}
-STR_0654    :Guest {INT32}
-STR_0655    :Guest {INT32}
-STR_0656    :Guest {INT32}
-STR_0657    :Guest {INT32}
-STR_0658    :Guest {INT32}
-STR_0659    :Guest {INT32}
-STR_0660    :Guest {INT32}
-STR_0661    :Guest {INT32}
-STR_0662    :Guest {INT32}
-STR_0663    :Guest {INT32}
-STR_0664    :Guest {INT32}
-STR_0665    :Guest {INT32}
-STR_0666    :Guest {INT32}
-STR_0667    :Guest {INT32}
-STR_0668    :Guest {INT32}
-STR_0669    :Guest {INT32}
-STR_0670    :Guest {INT32}
-STR_0671    :Guest {INT32}
-STR_0672    :Guest {INT32}
-STR_0673    :Guest {INT32}
-STR_0674    :Guest {INT32}
-STR_0675    :Guest {INT32}
-STR_0676    :Guest {INT32}
-STR_0677    :Guest {INT32}
-STR_0678    :Guest {INT32}
-STR_0679    :Guest {INT32}
-STR_0680    :Guest {INT32}
-STR_0681    :Guest {INT32}
-STR_0682    :Guest {INT32}
-STR_0683    :Guest {INT32}
-STR_0684    :Guest {INT32}
-STR_0685    :Guest {INT32}
-STR_0686    :Guest {INT32}
-STR_0687    :Guest {INT32}
-STR_0688    :Guest {INT32}
-STR_0689    :Guest {INT32}
-STR_0690    :Guest {INT32}
-STR_0691    :Guest {INT32}
-STR_0692    :Guest {INT32}
-STR_0693    :Guest {INT32}
-STR_0694    :Guest {INT32}
-STR_0695    :Guest {INT32}
-STR_0696    :Guest {INT32}
-STR_0697    :Guest {INT32}
-STR_0698    :Guest {INT32}
-STR_0699    :Guest {INT32}
-STR_0700    :Guest {INT32}
-STR_0701    :Guest {INT32}
-STR_0702    :Guest {INT32}
-STR_0703    :Guest {INT32}
-STR_0704    :Guest {INT32}
-STR_0705    :Guest {INT32}
-STR_0706    :Guest {INT32}
-STR_0707    :Guest {INT32}
-STR_0708    :Guest {INT32}
-STR_0709    :Guest {INT32}
-STR_0710    :Guest {INT32}
-STR_0711    :Guest {INT32}
-STR_0712    :Guest {INT32}
-STR_0713    :Guest {INT32}
-STR_0714    :Guest {INT32}
-STR_0715    :Guest {INT32}
-STR_0716    :Guest {INT32}
-STR_0717    :Guest {INT32}
-STR_0718    :Guest {INT32}
-STR_0719    :Guest {INT32}
-STR_0720    :Guest {INT32}
-STR_0721    :Guest {INT32}
-STR_0722    :Guest {INT32}
-STR_0723    :Guest {INT32}
-STR_0724    :Guest {INT32}
-STR_0725    :Guest {INT32}
-STR_0726    :Guest {INT32}
-STR_0727    :Guest {INT32}
-STR_0728    :Guest {INT32}
-STR_0729    :Guest {INT32}
-STR_0730    :Guest {INT32}
-STR_0731    :Guest {INT32}
-STR_0732    :Guest {INT32}
-STR_0733    :Guest {INT32}
-STR_0734    :Guest {INT32}
-STR_0735    :Guest {INT32}
-STR_0736    :Guest {INT32}
-STR_0737    :Guest {INT32}
-STR_0738    :Guest {INT32}
-STR_0739    :Guest {INT32}
-STR_0740    :Guest {INT32}
-STR_0741    :Guest {INT32}
-STR_0742    :Guest {INT32}
-STR_0743    :Guest {INT32}
-STR_0744    :Guest {INT32}
-STR_0745    :Guest {INT32}
-STR_0746    :Guest {INT32}
-STR_0747    :Guest {INT32}
-STR_0748    :Guest {INT32}
-STR_0749    :Guest {INT32}
-STR_0750    :Guest {INT32}
-STR_0751    :Guest {INT32}
-STR_0752    :Guest {INT32}
-STR_0753    :Guest {INT32}
-STR_0754    :Guest {INT32}
-STR_0755    :Guest {INT32}
-STR_0756    :Guest {INT32}
-STR_0757    :Guest {INT32}
-STR_0758    :Guest {INT32}
-STR_0759    :Guest {INT32}
-STR_0760    :Guest {INT32}
-STR_0761    :Guest {INT32}
-STR_0762    :Guest {INT32}
-STR_0763    :Guest {INT32}
-STR_0764    :Guest {INT32}
-STR_0765    :Guest {INT32}
-STR_0766    :Guest {INT32}
-STR_0767    :Guest {INT32}
-STR_0768    :Handyman {INT32}
-STR_0769    :Mechanic {INT32}
-STR_0770    :Security Guard {INT32}
-STR_0771    :Entertainer {INT32}
-STR_0772    :Unnamed park{POP16}{POP16}
-STR_0773    :Unnamed park{POP16}{POP16}
-STR_0774    :Unnamed park{POP16}{POP16}
-STR_0775    :Unnamed park{POP16}{POP16}
-STR_0776    :Unnamed park{POP16}{POP16}
-STR_0777    :Unnamed park{POP16}{POP16}
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
+STR_0602    :รถไฟเหาะตีลังกาถูกเร่งออกจากสถานีโดยมอเตอร์เหนี่ยวนำเชิงเส้นเพื่อเร่งความเร็วผ่านการบิดตัวผกผัน
+STR_0603    :แขก {INT32}
+STR_0604    :แขก {INT32}
+STR_0605    :แขก {INT32}
+STR_0606    :แขก {INT32}
+STR_0607    :แขก {INT32}
+STR_0608    :แขก {INT32}
+STR_0609    :แขก {INT32}
+STR_0610    :แขก {INT32}
+STR_0611    :แขก {INT32}
+STR_0612    :แขก {INT32}
+STR_0613    :แขก {INT32}
+STR_0614    :แขก {INT32}
+STR_0615    :แขก {INT32}
+STR_0616    :แขก {INT32}
+STR_0617    :แขก {INT32}
+STR_0618    :แขก {INT32}
+STR_0619    :แขก {INT32}
+STR_0620    :แขก {INT32}
+STR_0621    :แขก {INT32}
+STR_0622    :แขก {INT32}
+STR_0623    :แขก {INT32}
+STR_0624    :แขก {INT32}
+STR_0625    :แขก {INT32}
+STR_0626    :แขก {INT32}
+STR_0627    :แขก {INT32}
+STR_0628    :แขก {INT32}
+STR_0629    :แขก {INT32}
+STR_0630    :แขก {INT32}
+STR_0631    :แขก {INT32}
+STR_0632    :แขก {INT32}
+STR_0633    :แขก {INT32}
+STR_0634    :แขก {INT32}
+STR_0635    :แขก {INT32}
+STR_0636    :แขก {INT32}
+STR_0637    :แขก {INT32}
+STR_0638    :แขก {INT32}
+STR_0639    :แขก {INT32}
+STR_0640    :แขก {INT32}
+STR_0641    :แขก {INT32}
+STR_0642    :แขก {INT32}
+STR_0643    :แขก {INT32}
+STR_0644    :แขก {INT32}
+STR_0645    :แขก {INT32}
+STR_0646    :แขก {INT32}
+STR_0647    :แขก {INT32}
+STR_0648    :แขก {INT32}
+STR_0649    :แขก {INT32}
+STR_0650    :แขก {INT32}
+STR_0651    :แขก {INT32}
+STR_0652    :แขก {INT32}
+STR_0653    :แขก {INT32}
+STR_0654    :แขก {INT32}
+STR_0655    :แขก {INT32}
+STR_0656    :แขก {INT32}
+STR_0657    :แขก {INT32}
+STR_0658    :แขก {INT32}
+STR_0659    :แขก {INT32}
+STR_0660    :แขก {INT32}
+STR_0661    :แขก {INT32}
+STR_0662    :แขก {INT32}
+STR_0663    :แขก {INT32}
+STR_0664    :แขก {INT32}
+STR_0665    :แขก {INT32}
+STR_0666    :แขก {INT32}
+STR_0667    :แขก {INT32}
+STR_0668    :แขก {INT32}
+STR_0669    :แขก {INT32}
+STR_0670    :แขก {INT32}
+STR_0671    :แขก {INT32}
+STR_0672    :แขก {INT32}
+STR_0673    :แขก {INT32}
+STR_0674    :แขก {INT32}
+STR_0675    :แขก {INT32}
+STR_0676    :แขก {INT32}
+STR_0677    :แขก {INT32}
+STR_0678    :แขก {INT32}
+STR_0679    :แขก {INT32}
+STR_0680    :แขก {INT32}
+STR_0681    :แขก {INT32}
+STR_0682    :แขก {INT32}
+STR_0683    :แขก {INT32}
+STR_0684    :แขก {INT32}
+STR_0685    :แขก {INT32}
+STR_0686    :แขก {INT32}
+STR_0687    :แขก {INT32}
+STR_0688    :แขก {INT32}
+STR_0689    :แขก {INT32}
+STR_0690    :แขก {INT32}
+STR_0691    :แขก {INT32}
+STR_0692    :แขก {INT32}
+STR_0693    :แขก {INT32}
+STR_0694    :แขก {INT32}
+STR_0695    :แขก {INT32}
+STR_0696    :แขก {INT32}
+STR_0697    :แขก {INT32}
+STR_0698    :แขก {INT32}
+STR_0699    :แขก {INT32}
+STR_0700    :แขก {INT32}
+STR_0701    :แขก {INT32}
+STR_0702    :แขก {INT32}
+STR_0703    :แขก {INT32}
+STR_0704    :แขก {INT32}
+STR_0705    :แขก {INT32}
+STR_0706    :แขก {INT32}
+STR_0707    :แขก {INT32}
+STR_0708    :แขก {INT32}
+STR_0709    :แขก {INT32}
+STR_0710    :แขก {INT32}
+STR_0711    :แขก {INT32}
+STR_0712    :แขก {INT32}
+STR_0713    :แขก {INT32}
+STR_0714    :แขก {INT32}
+STR_0715    :แขก {INT32}
+STR_0716    :แขก {INT32}
+STR_0717    :แขก {INT32}
+STR_0718    :แขก {INT32}
+STR_0719    :แขก {INT32}
+STR_0720    :แขก {INT32}
+STR_0721    :แขก {INT32}
+STR_0722    :แขก {INT32}
+STR_0723    :แขก {INT32}
+STR_0724    :แขก {INT32}
+STR_0725    :แขก {INT32}
+STR_0726    :แขก {INT32}
+STR_0727    :แขก {INT32}
+STR_0728    :แขก {INT32}
+STR_0729    :แขก {INT32}
+STR_0730    :แขก {INT32}
+STR_0731    :แขก {INT32}
+STR_0732    :แขก {INT32}
+STR_0733    :แขก {INT32}
+STR_0734    :แขก {INT32}
+STR_0735    :แขก {INT32}
+STR_0736    :แขก {INT32}
+STR_0737    :แขก {INT32}
+STR_0738    :แขก {INT32}
+STR_0739    :แขก {INT32}
+STR_0740    :แขก {INT32}
+STR_0741    :แขก {INT32}
+STR_0742    :แขก {INT32}
+STR_0743    :แขก {INT32}
+STR_0744    :แขก {INT32}
+STR_0745    :แขก {INT32}
+STR_0746    :แขก {INT32}
+STR_0747    :แขก {INT32}
+STR_0748    :แขก {INT32}
+STR_0749    :แขก {INT32}
+STR_0750    :แขก {INT32}
+STR_0751    :แขก {INT32}
+STR_0752    :แขก {INT32}
+STR_0753    :แขก {INT32}
+STR_0754    :แขก {INT32}
+STR_0755    :แขก {INT32}
+STR_0756    :แขก {INT32}
+STR_0757    :แขก {INT32}
+STR_0758    :แขก {INT32}
+STR_0759    :แขก {INT32}
+STR_0760    :แขก {INT32}
+STR_0761    :แขก {INT32}
+STR_0762    :แขก {INT32}
+STR_0763    :แขก {INT32}
+STR_0764    :แขก {INT32}
+STR_0765    :แขก {INT32}
+STR_0766    :แขก {INT32}
+STR_0767    :แขก {INT32}
+STR_0768    :ช่างซ่อมบำรุง {INT32}
+STR_0769    :ช่าง {INT32}
+STR_0770    :ยาม {INT32}
+STR_0771    :นักร้อง {INT32}
+STR_0772    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0773    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0774    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0775    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0776    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0777    :ไม่มีชื่อ จอด{POP16}{POP16}
+STR_0778    :สัญญาณ
+STR_0779    :1เซนต์
+STR_0780    :2ครั้ง
+STR_0781    :3ถ
 STR_0782    :4th
 STR_0783    :5th
 STR_0784    :6th
@@ -800,9 +800,9 @@ STR_0795    :17th
 STR_0796    :18th
 STR_0797    :19th
 STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
+STR_0799    :21เซนต์
+STR_0800    :22ครั้ง
+STR_0801    :23ถ
 STR_0802    :24th
 STR_0803    :25th
 STR_0804    :26th
@@ -811,34 +811,34 @@ STR_0806    :28th
 STR_0807    :29th
 STR_0808    :30th
 STR_0809    :31st
-STR_0810    :Jan
-STR_0811    :Feb
-STR_0812    :Mar
-STR_0813    :Apr
-STR_0814    :May
-STR_0815    :Jun
-STR_0816    :Jul
-STR_0817    :Aug
-STR_0818    :Sep
-STR_0819    :Oct
-STR_0820    :Nov
-STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0810    :ม.ค.
+STR_0811    :กุมภาพันธ์
+STR_0812    :ทำลาย
+STR_0813    :เมษายน
+STR_0814    :อาจ
+STR_0815    :มิถุนายน
+STR_0816    :กรกฎาคม
+STR_0817    :สิงหาคม
+STR_0818    :กันยายน
+STR_0819    :ตุลาคม
+STR_0820    :พฤศจิกายน
+STR_0821    :ธันวาคม
+STR_0822    :ไม่สามารถเข้าถึงไฟล์ข้อมูลกราฟิก
+STR_0823    :ไฟล์ข้อมูลที่ขาดหายไปหรือไม่สามารถเข้าถึงได้
 STR_0824    :{BLACK}{CROSS}
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Close window
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
-STR_0830    :{SMALLFONT}{BLACK}Zoom view in
-STR_0831    :{SMALLFONT}{BLACK}Zoom view out
-STR_0832    :{SMALLFONT}{BLACK}Rotate view 90{DEGREE} clockwise
-STR_0833    :{SMALLFONT}{BLACK}Pause game
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
-STR_0835    :Game initialisation failed
-STR_0836    :Unable to start game in a minimised state
-STR_0837    :Unable to initialise graphics system
+STR_0825    :ชื่อที่เลือกใช้อยู่แล้ว
+STR_0826    :ระบุชื่อมากเกินไป
+STR_0827    :เงินสดไม่เพียงพอ - ต้อง {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}ปิดหน้าต่าง
+STR_0829    :{SMALLFONT}{BLACK}ชื่อหน้าต่าง - ลากเพื่อย้ายหน้าต่าง
+STR_0830    :{SMALLFONT}{BLACK}ขยายมุมมอง
+STR_0831    :{SMALLFONT}{BLACK}ย่อมุมมองออก
+STR_0832    :{SMALLFONT}{BLACK}หมุนมุมมอง 90{DEGREE} ตามเข็มนาฬิกา
+STR_0833    :{SMALLFONT}{BLACK}หยุดเกมชั่วคราว
+STR_0834    :{SMALLFONT}{BLACK}ตัวเลือกดิสก์และเกม
+STR_0835    :การเริ่มต้นเกมล้มเหลว
+STR_0836    :ไม่สามารถเริ่มเกมในสภาพที่ย่อเล็กสุด
+STR_0837    :ไม่สามารถเริ่มต้นระบบกราฟิก
 STR_0838    :<removed string - do not use>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -849,16 +849,16 @@ STR_0843    :<removed string - do not use>
 STR_0844    :<removed string - do not use>
 STR_0845    :<removed string - do not use>
 STR_0846    :<removed string - do not use>
-STR_0847    :About 'OpenRCT2'
+STR_0847    :เกี่ยวกับ 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
-STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
+STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, สงวนลิขสิทธิ์
+STR_0851    :{WINDOW_COLOUR_2}ออกแบบและตั้งโปรแกรมโดย Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}กราฟิกโดย Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}เสียงและดนตรีโดย Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}เสียงเพิ่มเติมที่บันทึกโดย David Ellis
+STR_0855    :{WINDOW_COLOUR_2}การเป็นตัวแทนโดย Jacqui Lyons at Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}ขอบคุณ:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
 STR_0859    :{WINDOW_COLOUR_2}
@@ -879,85 +879,85 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Too low !
-STR_0878    :Too high !
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
+STR_0877    :ต่ำเกินไป !
+STR_0878    :สูงเกินไป !
+STR_0879    :ไม่สามารถลดที่ดินได้ที่นี่ ...
+STR_0880    :ไม่สามารถยกที่ดินได้ที่นี่ ...
+STR_0881    :วัตถุในทาง
+STR_0882    :โหลดเกมส์
+STR_0883    :บันทึกเกม
+STR_0884    :แนวนอนโหลด
+STR_0885    :บันทึกภูมิทัศน์
 STR_0886    :<removed string - do not use>
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Roller Coaster Designer
-STR_0889    :Quit Track Designs Manager
+STR_0887    :ออกจากตัวแก้ไขสถานการณ์
+STR_0888    :เลิก ออกแบบ เรือยามฝั่ง ลูกกลิ้ง
+STR_0889    :ออกจากผู้จัดการการออกแบบแทร็ค
 STR_0890    :<removed string - do not use>
-STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
-STR_0893    :Screenshot failed !
-STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
-STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-STR_0934    :Ride entrance in the way
-STR_0935    :Ride exit in the way
-STR_0936    :Park entrance in the way
-STR_0937    :{SMALLFONT}{BLACK}View options
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Hide Base Land
-STR_0941    :Hide Vertical Faces
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
-STR_0944    :Save
-STR_0945    :Don't Save
-STR_0946    :Cancel
-STR_0947    :Save this before loading ?
-STR_0948    :Save this before quitting ?
-STR_0949    :Save this before quitting ?
-STR_0950    :Load Game
-STR_0951    :Quit Game
-STR_0952    :Quit Game
-STR_0953    :Load Landscape
+STR_0891    :ภาพหน้าจอ
+STR_0892    :ภาพหน้าจอที่บันทึกไว้ในดิสก์เป็น '{STRINGID}'
+STR_0893    :ภาพหน้าจอไม่ทำงาน!
+STR_0894    :พื้นที่ข้อมูลแนวนอนเต็ม!
+STR_0895    :ไม่สามารถสร้างส่วนเหนือและบางส่วนใต้พื้นได้
+STR_0896    :{POP16}{POP16}{STRINGID} การก่อสร้าง
+STR_0897    :ทิศทาง
+STR_0898    :{SMALLFONT}{BLACK}เส้นโค้งซ้าย
+STR_0899    :{SMALLFONT}{BLACK}เส้นโค้งขวา
+STR_0900    :{SMALLFONT}{BLACK}เส้นโค้งซ้าย (รัศมีเล็ก)
+STR_0901    :{SMALLFONT}{BLACK}เส้นโค้งขวา (รัศมีเล็ก)
+STR_0902    :{SMALLFONT}{BLACK}เส้นโค้งซ้าย (รัศมีมีขนาดเล็กมาก)
+STR_0903    :{SMALLFONT}{BLACK}เส้นโค้งขวา (รัศมีขนาดเล็กมาก)
+STR_0904    :{SMALLFONT}{BLACK}เส้นโค้งซ้าย (รัศมีขนาดใหญ่)
+STR_0905    :{SMALLFONT}{BLACK}เส้นโค้งขวา (รัศมีขนาดใหญ่)
+STR_0906    :{SMALLFONT}{BLACK}ตรง
+STR_0907    :ลาด
+STR_0908    :ม้วน / การธนาคาร
+STR_0909    :ที่นั่ง เน่า.
+STR_0910    :{SMALLFONT}{BLACK}ม้วนสำหรับเส้นโค้งซ้าย
+STR_0911    :{SMALLFONT}{BLACK}ม้วนสำหรับโค้งขวา
+STR_0912    :{SMALLFONT}{BLACK}ไม่มีม้วน
+STR_0913    :{SMALLFONT}{BLACK}เลื่อนไปยังส่วนก่อนหน้า
+STR_0914    :{SMALLFONT}{BLACK}เลื่อนไปยังส่วนถัดไป
+STR_0915    :{SMALLFONT}{BLACK}สร้างส่วนที่เลือก
+STR_0916    :{SMALLFONT}{BLACK}นำส่วนที่ไฮไลต์ออก
+STR_0917    :{SMALLFONT}{BLACK}ลดลงในแนวตั้ง
+STR_0918    :{SMALLFONT}{BLACK}ลาดชันลง
+STR_0919    :{SMALLFONT}{BLACK}ลาดลง
+STR_0920    :{SMALLFONT}{BLACK}ชั้น
+STR_0921    :{SMALLFONT}{BLACK}ลาดขึ้น
+STR_0922    :{SMALLFONT}{BLACK}ลาดชันขึ้น
+STR_0923    :{SMALLFONT}{BLACK}เพิ่มขึ้นในแนวตั้ง
+STR_0924    :{SMALLFONT}{BLACK}เกลียวลง
+STR_0925    :{SMALLFONT}{BLACK}เกลียวขึ้น
+STR_0926    :ไม่สามารถลบรายการนี้ได้ ...
+STR_0927    :ไม่สามารถสร้างสิ่งนี้ได้ที่นี่ ...
+STR_0928    :{SMALLFONT}{BLACK}ยกโซ่ขึ้นเพื่อดึงรถขึ้นลาด
+STR_0929    :'S' โค้ง (ซ้าย)
+STR_0930    :'S' โค้ง (ขวา)
+STR_0931    :แนวตั้ง ห่วง (ซ้าย)
+STR_0932    :แนวตั้ง ห่วง (ขวา)
+STR_0933    :ยกหรือลดที่ดินก่อน
+STR_0934    :นั่งเข้าทาง
+STR_0935    :ออกทางออก
+STR_0936    :ทางเข้าอุทยานในทาง
+STR_0937    :{SMALLFONT}{BLACK}ดูตัวเลือก
+STR_0938    :{SMALLFONT}{BLACK}ปรับความสูงและความสูงของพื้นดิน
+STR_0939    :มุมมองใต้ดิน / ด้านใน
+STR_0940    :ปิดบัง ฐาน ที่ดิน
+STR_0941    :ปิดบัง ใบหน้าแนวตั้ง
+STR_0942    :การดูผ่าน ขี่
+STR_0943    :การดูผ่าน ทัศนียภาพ
+STR_0944    :บันทึก
+STR_0945    :อย่าบันทึก
+STR_0946    :ยกเลิก
+STR_0947    :บันทึกสิ่งนี้ก่อนที่จะโหลดหรือไม่?
+STR_0948    :บันทึกข้อมูลนี้ก่อนเลิกสูบบุหรี่หรือไม่?
+STR_0949    :บันทึกข้อมูลนี้ก่อนเลิกสูบบุหรี่หรือไม่?
+STR_0950    :โหลดเกมส์
+STR_0951    :ออกจากเกม
+STR_0952    :ออกจากเกม
+STR_0953    :แนวนอนโหลด
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}เลือกมุมหมุนที่นั่งสำหรับส่วนของแทร็กนี้
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -974,114 +974,114 @@ STR_0968    :+360{DEGREE}
 STR_0969    :+405{DEGREE}
 STR_0970    :+450{DEGREE}
 STR_0971    :+495{DEGREE}
-STR_0972    :Cancel
-STR_0973    :OK
-STR_0974    :Rides
-STR_0975    :Shops and Stalls
-STR_0976    :Toilets and Information Kiosks
-STR_0977    :New Transport Rides
-STR_0978    :New Gentle Rides
-STR_0979    :New Roller Coasters
-STR_0980    :New Thrill Rides
-STR_0981    :New Water Rides
-STR_0982    :New Shops & Stalls
-STR_0983    :Research & Development
+STR_0972    :ยกเลิก
+STR_0973    :ตกลง
+STR_0974    :ขี่
+STR_0975    :ร้านค้าและแผงลอย
+STR_0976    :ห้องสุขาและตู้ข้อมูล
+STR_0977    :การขนส่งใหม่
+STR_0978    :ใหม่ อ่อนโยน ขี่
+STR_0979    :ลูกกลิ้งจานรองแบบใหม่
+STR_0980    :ขี่ตื่นเต้นใหม่
+STR_0981    :ขี่น้ำใหม่
+STR_0982    :ร้านค้าและร้านค้าใหม่ ๆ
+STR_0983    :การวิจัยและพัฒนา
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :มากเกินไปขี่ / สถานที่ท่องเที่ยว
+STR_0988    :ไม่สามารถสร้างรถใหม่ / สถานที่ท่องเที่ยว ...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
-STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
-STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
-STR_0996    :Overall view
-STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
-STR_1006    :Must be closed first
-STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_0990    :{SMALLFONT}{BLACK}การก่อสร้าง
+STR_0991    :สถานีชานชาลา
+STR_0992    :{SMALLFONT}{BLACK}รื้อถอนรถทั้งหมด / สถานที่น่าสนใจ
+STR_0993    :รื้อถอนนั่ง / ดึงดูด
+STR_0994    :ทำลาย
+STR_0995    :{WINDOW_COLOUR_1}คุณแน่ใจหรือว่าต้องการจะรื้อถอนอย่างสมบูรณ์ {STRINGID}?
+STR_0996    :มุมมองโดยรวม
+STR_0997    :{SMALLFONT}{BLACK}ดูการเลือก
+STR_0998    :ไม่มีสถานีอื่น ๆ ที่อนุญาตให้เข้าร่วมการเดินทางครั้งนี้
+STR_0999    :ต้องการแพลตฟอร์มสถานี
+STR_1000    :แทร็คไม่ใช่วงจรที่สมบูรณ์
+STR_1001    :ติดตามไม่เหมาะสมสำหรับประเภทของรถไฟ
+STR_1002    :ไม่สามารถเปิดได้ {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :ไม่สามารถทดสอบได้ {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :ไม่สามารถปิด {POP16}{POP16}{POP16}{STRINGID}...
+STR_1005    :ไม่สามารถเริ่มต้นการก่อสร้างได้ {POP16}{POP16}{POP16}{STRINGID}...
+STR_1006    :ต้องปิดก่อน
+STR_1007    :ไม่สามารถสร้างยานพาหนะได้มากพอ
+STR_1008    :{SMALLFONT}{BLACK}เปิดปิดหรือทดสอบการนั่ง / สถานที่
+STR_1009    :{SMALLFONT}{BLACK}เปิดหรือปิดการขี่ / สถานที่ท่องเที่ยวทั้งหมด
+STR_1010    :{SMALLFONT}{BLACK}เปิดหรือปิดสวนสาธารณะ
+STR_1011    :ปิดทั้งหมด
+STR_1012    :เปิดทั้งหมด
+STR_1013    :ปิดสวนสาธารณะ
+STR_1014    :เปิดสวนสาธารณะ
+STR_1015    :ไม่สามารถใช้งานได้กับแพลตฟอร์มสถานีมากกว่าหนึ่งสถานีในโหมดนี้
+STR_1016    :ไม่สามารถใช้งานได้โดยมีสถานีน้อยกว่าสองแห่งในโหมดนี้
+STR_1017    :ไม่สามารถเปลี่ยนโหมดการทำงาน ...
+STR_1018    :ไม่สามารถเปลี่ยนแปลง ...
+STR_1019    :ไม่สามารถเปลี่ยนแปลง ...
+STR_1020    :ไม่สามารถเปลี่ยนแปลง ...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
-STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
-STR_1043    :OpenRCT2 Saved Game
-STR_1044    :OpenRCT2 Scenario File
-STR_1045    :OpenRCT2 Landscape File
-STR_1046    :OpenRCT2 Track Design File
-STR_1047    :Game save failed!
-STR_1048    :Scenario save failed!
-STR_1049    :Landscape save failed!
-STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
-STR_1051    :Invisible Supports
-STR_1052    :Invisible People
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} รถต่อขบวน
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} รถยนต์ต่อขบวน
+STR_1024    :{COMMA16} รถต่อขบวน
+STR_1025    :{COMMA16} รถยนต์ต่อขบวน
+STR_1026    :สถานีเวทียาวเกินไป!
+STR_1027    :{SMALLFONT}{BLACK}ค้นหาตำแหน่งนี้ในมุมมองหลัก
+STR_1028    :นอกขอบของแผนที่!
+STR_1029    :ไม่สามารถสร้างส่วนเหนือและบางส่วนต่ำกว่าน้ำ!
+STR_1030    :สามารถสร้างใต้น้ำเท่านั้น!
+STR_1031    :ไม่สามารถสร้างน้ำใต้น้ำได้!
+STR_1032    :สามารถสร้างได้เฉพาะในน้ำ!
+STR_1033    :สามารถสร้างพื้นบนนี้ได้เท่านั้น!
+STR_1034    :สามารถสร้างสิ่งนี้ได้บนบกเท่านั้น!
+STR_1035    :หน่วยงานท้องถิ่นจะไม่อนุญาตให้ก่อสร้างเหนือต้นไม้สูง!
+STR_1036    :โหลดเกมส์
+STR_1037    :แนวนอนโหลด
+STR_1038    :แปลงเกมที่บันทึกไว้เป็นภาพจำลอง
+STR_1039    :ติดตั้งการออกแบบแทร็กใหม่
+STR_1040    :บันทึกเกม
+STR_1041    :บันทึกสถานการณ์
+STR_1042    :บันทึกภูมิทัศน์
+STR_1043    :OpenRCT2 เกมที่บันทึกไว้
+STR_1044    :OpenRCT2 ไฟล์สถานการณ์
+STR_1045    :OpenRCT2 ไฟล์แนวนอน
+STR_1046    :OpenRCT2 ไฟล์ออกแบบแทร็ก
+STR_1047    :เกมล้มเหลว!
+STR_1048    :การบันทึกเรื่องราวล้มเหลว!
+STR_1049    :การบันทึกภูมิล้ม!
+STR_1050    :ไม่สามารถโหลด ...{NEWLINE}ไฟล์มีข้อมูลที่ไม่ถูกต้อง!
+STR_1051    :การสนับสนุนที่มองไม่เห็น
+STR_1052    :คนที่มองไม่เห็น
+STR_1053    :{SMALLFONT}{BLACK}ขี่ / สถานที่ท่องเที่ยวในอุทยาน
+STR_1054    :{SMALLFONT}{BLACK}นั่งชื่อ / สถานที่ท่องเที่ยว
+STR_1055    :{SMALLFONT}{BLACK}ชื่อบุคคล
+STR_1056    :{SMALLFONT}{BLACK}ชื่อพนักงาน
+STR_1057    :ชื่อขี่ / ดึงดูด
+STR_1058    :ป้อนชื่อใหม่สำหรับการขี่ / สถานที่นี้:
+STR_1059    :ไม่สามารถเปลี่ยนชื่อรถ / สถานที่ท่องเที่ยว ...
+STR_1060    :ชื่อการขี่ / ดึงดูดความสนใจไม่ถูกต้อง
+STR_1061    :โหมดปกติ
+STR_1062    :โหมดวงจรต่อเนื่อง
+STR_1063    :ย้อนกลับเอียง เปิดตัวโหมดรถรับส่ง
+STR_1064    :เปิดตัว (ผ่านสถานี)
+STR_1065    :โหมดรถรับส่ง
+STR_1066    :โหมดเช่าเรือ
+STR_1067    :เปิดตัวมากขึ้น
+STR_1068    :โหมดยกระดับการหมุน
+STR_1069    :สถานีไปยังโหมดสถานี
+STR_1070    :นั่งเดี่ยวต่อครั้ง
+STR_1071    :ไม่ จำกัด การขี่ต่อการรับเข้าเรียน
+STR_1072    :โหมดเขาวงกต
+STR_1073    :โหมดการแข่งขัน
+STR_1074    :โหมดกันชนรถยนต์
+STR_1075    :โหมดแกว่ง
+STR_1076    :โหมดร้านค้าแผงลอย
+STR_1077    :โหมดการหมุน
+STR_1078    :หมุนไปข้างหน้า
+STR_1079    :การหมุนย้อนกลับ
 STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
 STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
 STR_1082    :Space rings mode
