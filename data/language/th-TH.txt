@@ -1232,7 +1232,7 @@ STR_1226    :{SMALLFONT}{BLACK}ตื่นเต้นเร้าใจ
 STR_1227    :{SMALLFONT}{BLACK}ขี่น้ำ
 STR_1228    :{SMALLFONT}{BLACK}ร้านค้าและคอกม้า
 STR_1229    :รถไฟ
-STR_1230    :trains
+STR_1230    :รถไฟ
 STR_1231    :รถไฟ
 STR_1232    :รถไฟ
 STR_1233    :{COMMA16} รถไฟ
@@ -1462,112 +1462,111 @@ STR_1456    :{WINDOW_COLOUR_2}เงินสดที่ใช้ไป: {BLACK
 STR_1457    :{WINDOW_COLOUR_2}เงินสดในกระเป๋า: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}เวลาในสวนสาธารณะ: {BLACK}{REALTIME}
 STR_1459    :ติดตามสไตล์
-STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
-STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
-STR_1462    :Too steep for lift hill
-STR_1463    :Guests
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
-STR_1468    :Staff
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
-STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
-STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
-STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
-STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
-STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the toilet{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
-STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
-STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
-STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
-STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
-STR_1508    :{SMALLFONT}{OPENQUOTES}I want to get off {STRINGID}{ENDQUOTES}
-STR_1509    :{SMALLFONT}{OPENQUOTES}I want to get out of {STRINGID}{ENDQUOTES}
-STR_1510    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} - It isn't safe{ENDQUOTES}
-STR_1511    :{SMALLFONT}{OPENQUOTES}This path is disgusting{ENDQUOTES}
-STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
-STR_1513    :{SMALLFONT}{OPENQUOTES}The vandalism here is really bad{ENDQUOTES}
-STR_1514    :{SMALLFONT}{OPENQUOTES}Great scenery!{ENDQUOTES}
-STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
-STR_1516    :{SMALLFONT}{OPENQUOTES}The jumping fountains are great{ENDQUOTES}
-STR_1517    :{SMALLFONT}{OPENQUOTES}The music is nice here{ENDQUOTES}
-STR_1518    :{SMALLFONT}{OPENQUOTES}This balloon from {STRINGID} is really good value{ENDQUOTES}
-STR_1519    :{SMALLFONT}{OPENQUOTES}This cuddly toy from {STRINGID} is really good value{ENDQUOTES}
-STR_1520    :{SMALLFONT}{OPENQUOTES}This park map from {STRINGID} is really good value{ENDQUOTES}
-STR_1521    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1522    :{SMALLFONT}{OPENQUOTES}This umbrella from {STRINGID} is really good value{ENDQUOTES}
-STR_1523    :{SMALLFONT}{OPENQUOTES}This drink from {STRINGID} is really good value{ENDQUOTES}
-STR_1524    :{SMALLFONT}{OPENQUOTES}This burger from {STRINGID} is really good value{ENDQUOTES}
-STR_1525    :{SMALLFONT}{OPENQUOTES}These chips from {STRINGID} are really good value{ENDQUOTES}
-STR_1526    :{SMALLFONT}{OPENQUOTES}This ice cream from {STRINGID} is really good value{ENDQUOTES}
-STR_1527    :{SMALLFONT}{OPENQUOTES}This candyfloss from {STRINGID} is really good value{ENDQUOTES}
+STR_1460    :{SMALLFONT}{BLACK}'U' รูปแบบเปิดโล่ง
+STR_1461    :{SMALLFONT}{BLACK}'O' รูปล้อมรอบ
+STR_1462    :สูงชันเกินไปสำหรับเนินเขายก
+STR_1464    :เกลียวขึ้น (เล็ก)
+STR_1465    :เกลียวขึ้น (ใหญ่)
+STR_1466    :เกลียวลง (เล็ก)
+STR_1467    :เกลียวลง (ใหญ่)
+STR_1468    :บุคลากร
+STR_1469    :นั่งต้องเริ่มต้นและสิ้นสุดด้วยสถานี
+STR_1470    :สถานีไม่นานพอ
+STR_1471    :{WINDOW_COLOUR_2}ความเร็ว:
+STR_1472    :{SMALLFONT}{BLACK}ความเร็วของการนั่งนี้
+STR_1473    :{WINDOW_COLOUR_2}ความตื่นเต้นเรตติ้ง: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}ความตื่นเต้นเรตติ้ง: {BLACK}ยังไม่พร้อม
+STR_1475    :{WINDOW_COLOUR_2}การประเมินความเข้ม: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}การประเมินความเข้ม: {BLACK}ยังไม่พร้อม 
+STR_1477    :{WINDOW_COLOUR_2}การประเมินความเข้ม: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}คะแนนคลื่นไส้ : {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}คะแนนคลื่นไส้ : {BLACK}ยังไม่พร้อม 
+STR_1480    :{SMALLFONT}{OPENQUOTES}ฉันไม่สามารถจ่ายได้ {STRINGID}{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}ฉันใช้เงินทั้งหมดของฉันแล้ว {ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}ฉันรู้สึกไม่สบาย{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}ฉันรู้สึกป่วยมาก {ENDQUOTES}
+STR_1484    :{SMALLFONT}{OPENQUOTES}ฉันอยากจะทำอะไรที่น่าตื่นเต้นกว่า {STRINGID}{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} ดูเหมือนจะรุนแรงเกินไปสำหรับฉัน{ENDQUOTES}
+STR_1486    :{SMALLFONT}{OPENQUOTES}ฉันยังไม่จบ {STRINGID} ยัง{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}แค่มองไปที่ {STRINGID} ทำให้ฉันรู้สึกไม่สบาย{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินมากที่จะไป {STRINGID}{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}ฉันอยากกลับบ้าน{ENDQUOTES}
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} เป็นค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}ฉันได้รับแล้ว {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}ฉันไม่สามารถจ่ายได้ {STRINGID}{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}ฉันไม่หิว{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}ฉันไม่กระหายน้ำ{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}ช่วยด้วย! ฉันจมน้ำ!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}ฉันหลงทาง!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} ดีมาก{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}ฉันเข้าคิวรอ {STRINGID} สำหรับทุกเพศทุกวัย{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}ฉันเหนื่อย{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}ฉันหิว{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}ฉันกระหายน้ำ{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}ฉันต้องไปห้องน้ำ{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}ฉันไม่สามารถหา {STRINGID}{ENDQUOTES}
+STR_1504    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินจำนวนมากที่จะใช้ {STRINGID}{ENDQUOTES}
+STR_1505    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้ไป {STRINGID} ขณะที่ฝนตก{ENDQUOTES}
+STR_1506    :{SMALLFONT}{OPENQUOTES}ครอกที่นี่แย่จริงๆ{ENDQUOTES}
+STR_1507    :{SMALLFONT}{OPENQUOTES}ฉันไม่สามารถหาทางออกที่จอดรถได้{ENDQUOTES}
+STR_1508    :{SMALLFONT}{OPENQUOTES}ฉันอยากจะลง {STRINGID}{ENDQUOTES}
+STR_1509    :{SMALLFONT}{OPENQUOTES}ฉันต้องการออกไป {STRINGID}{ENDQUOTES}
+STR_1510    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้ไป {STRINGID} - ไม่ปลอดภัย{ENDQUOTES}
+STR_1511    :{SMALLFONT}{OPENQUOTES}เส้นทางนี้น่าขยะแขยง{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}ที่นี่หนาแน่นมากเกินไป{ENDQUOTES}
+STR_1513    :{SMALLFONT}{OPENQUOTES}การป่าเถื่อนที่นี่แย่จริงๆ{ENDQUOTES}
+STR_1514    :{SMALLFONT}{OPENQUOTES}ทิวทัศน์ที่ยอดเยี่ยม!{ENDQUOTES}
+STR_1515    :{SMALLFONT}{OPENQUOTES}สวนแห่งนี้สะอาดและเป็นระเบียบเรียบร้อย{ENDQUOTES}
+STR_1516    :{SMALLFONT}{OPENQUOTES}น้ำพุกระโดดเป็นอย่างมาก{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}เพลงเป็นสิ่งที่ดีที่นี่{ENDQUOTES}
+STR_1518    :{SMALLFONT}{OPENQUOTES}บอลลูนนี้จาก {STRINGID} เป็นค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1519    :{SMALLFONT}{OPENQUOTES}ของเล่นที่น่าขนลื่นนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1520    :{SMALLFONT}{OPENQUOTES}แผนที่สวนนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1521    :{SMALLFONT}{OPENQUOTES}ภาพบนรถจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1522    :{SMALLFONT}{OPENQUOTES}ร่มนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1523    :{SMALLFONT}{OPENQUOTES}เครื่องดื่มชนิดนี้จาก {STRINGID} เป็นราคาที่ดีจริงๆ{ENDQUOTES}
+STR_1524    :{SMALLFONT}{OPENQUOTES}ชาวเมืองนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}ชิปเหล่านี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1526    :{SMALLFONT}{OPENQUOTES}ไอศครีมนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}สายไหม นี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
 STR_1528    :
 STR_1529    :
 STR_1530    :
-STR_1531    :{SMALLFONT}{OPENQUOTES}This pizza from {STRINGID} is really good value{ENDQUOTES}
+STR_1531    :{SMALLFONT}{OPENQUOTES}พิซซ่านี้จาก {STRINGID} คุ้มค่าจริงๆ{ENDQUOTES}
 STR_1532    :
-STR_1533    :{SMALLFONT}{OPENQUOTES}This popcorn from {STRINGID} is really good value{ENDQUOTES}
-STR_1534    :{SMALLFONT}{OPENQUOTES}This hot dog from {STRINGID} is really good value{ENDQUOTES}
-STR_1535    :{SMALLFONT}{OPENQUOTES}This tentacle from {STRINGID} is really good value{ENDQUOTES}
-STR_1536    :{SMALLFONT}{OPENQUOTES}This hat from {STRINGID} is really good value{ENDQUOTES}
-STR_1537    :{SMALLFONT}{OPENQUOTES}This toffee apple from {STRINGID} is really good value{ENDQUOTES}
-STR_1538    :{SMALLFONT}{OPENQUOTES}This T-shirt from {STRINGID} is really good value{ENDQUOTES}
-STR_1539    :{SMALLFONT}{OPENQUOTES}This doughnut from {STRINGID} is really good value{ENDQUOTES}
-STR_1540    :{SMALLFONT}{OPENQUOTES}This coffee from {STRINGID} is really good value{ENDQUOTES}
+STR_1533    :{SMALLFONT}{OPENQUOTES}ข้าวโพดคั่วจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1534    :{SMALLFONT}{OPENQUOTES}สุนัขร้อนจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1535    :{SMALLFONT}{OPENQUOTES}หนวดนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1536    :{SMALLFONT}{OPENQUOTES}หมวกจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}แอปเปิ้ลทอฟฟี่จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1538    :{SMALLFONT}{OPENQUOTES}เสื้อยืดนี้จาก {STRINGID} คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}โดนัทนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1540    :{SMALLFONT}{OPENQUOTES}กาแฟจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
 STR_1541    :
-STR_1542    :{SMALLFONT}{OPENQUOTES}This fried chicken from {STRINGID} is really good value{ENDQUOTES}
-STR_1543    :{SMALLFONT}{OPENQUOTES}This lemonade from {STRINGID} is really good value{ENDQUOTES}
+STR_1542    :{SMALLFONT}{OPENQUOTES}ไก่ทอดจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1543    :{SMALLFONT}{OPENQUOTES}น้ำมะนาวจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
 STR_1544    :
 STR_1545    :
 STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :{SMALLFONT}{OPENQUOTES}Wow!{ENDQUOTES}
-STR_1551    :{SMALLFONT}{OPENQUOTES}I have the strangest feeling someone is watching me{ENDQUOTES}
-STR_1552    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a balloon from {STRINGID}{ENDQUOTES}
-STR_1553    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cuddly toy from {STRINGID}{ENDQUOTES}
-STR_1554    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a park map from {STRINGID}{ENDQUOTES}
-STR_1555    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1556    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an umbrella from {STRINGID}{ENDQUOTES}
-STR_1557    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a drink from {STRINGID}{ENDQUOTES}
-STR_1558    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a burger from {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for chips from {STRINGID}{ENDQUOTES}
-STR_1560    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an ice cream from {STRINGID}{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for candyfloss from {STRINGID}{ENDQUOTES}
+STR_1550    :{SMALLFONT}{OPENQUOTES}ว้าว!{ENDQUOTES}
+STR_1551    :{SMALLFONT}{OPENQUOTES}ฉันรู้สึกแปลกประหลาดที่มีคนคอยดูฉัน{ENDQUOTES}
+STR_1552    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไรสำหรับบอลลูน {STRINGID}{ENDQUOTES}
+STR_1553    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไรสำหรับของเล่นที่น่าขนลุกจาก {STRINGID}{ENDQUOTES}
+STR_1554    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไรสำหรับแผนที่อุทยานจาก {STRINGID}{ENDQUOTES}
+STR_1555    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินจำนวนมากสำหรับภาพบนรถจาก {STRINGID}{ENDQUOTES}
+STR_1556    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับร่มจาก {STRINGID}{ENDQUOTES}
+STR_1557    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไรสำหรับเครื่องดื่มจาก {STRINGID}{ENDQUOTES}
+STR_1558    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับชาวเมืองจาก {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินจำนวนมากสำหรับชิปจาก {STRINGID}{ENDQUOTES}
+STR_1560    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับไอศครีมจาก {STRINGID}{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าจำนวนมากสำหรับ สายไหม จาก {STRINGID}{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
-STR_1565    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for pizza from {STRINGID}{ENDQUOTES}
+STR_1565    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับพิซซ่าจาก {STRINGID}{ENDQUOTES}
 STR_1566    :
 STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {STRINGID}{ENDQUOTES}
 STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
