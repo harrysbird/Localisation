@@ -4320,83 +4320,83 @@ STR_6009    :{SMALLFONT}{BLACK}Select cut height
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6012    :{COMMA1DP16}
-STR_6013    :{SMALLFONT}{BLACK}Guests will only pay the ticket to enter the park and services.{NEWLINE}Ride entry is free.
-STR_6014    :{SMALLFONT}{BLACK}Guests will only pay entrance tickets for rides and services.{NEWLINE}They won't pay anything to enter the park.
-STR_6015    :Sloped
-STR_6016    :Modify Tile
-STR_6017    :Please slow down
-STR_6018    :Ride construction - Turn left
-STR_6019    :Ride construction - Turn right
-STR_6020    :Ride construction - Use default track
-STR_6021    :Ride construction - Slope down
-STR_6022    :Ride construction - Slope up
-STR_6023    :Ride construction - Toggle chain lift
-STR_6024    :Ride construction - Bank left
-STR_6025    :Ride construction - Bank right
-STR_6026    :Ride construction - Previous track
-STR_6027    :Ride construction - Next track
-STR_6028    :Ride construction - Build current
-STR_6029    :Ride construction - Demolish current
-STR_6030    :{SMALLFONT}{BLACK}Scenery picker. Click any scenery on the map to select the same piece for construction.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
-STR_6033    :Path to RCT1 installation:
+STR_6013    :{SMALLFONT}{BLACK}ผู้เข้าพักจะต้องชำระค่าตั๋วเพียงครั้งเดียวเพื่อเข้าสู่สวนสาธารณะและบริการต่างๆ{NEWLINE}เข้าร่วมรายการ Ride ฟรี .
+STR_6014    :{SMALLFONT}{BLACK}ผู้เข้าพักจะต้องจ่ายค่าตั๋วเข้าชมสำหรับการขี่และบริการเท่านั้น{NEWLINE}พวกเขาจะไม่จ่ายอะไรให้เข้าอุทยาน
+STR_6015    :ลาด
+STR_6016    :แก้ไข กระเบื้อง
+STR_6017    :กรุณาชะลอตัวลง
+STR_6018    :ก่อสร้างราง - เลี้ยวซ้าย
+STR_6019    :นั่งรถไฟ - เลี้ยวขวา
+STR_6020    :การก่อสร้างนั่ง - ใช้เส้นทางเริ่มต้น
+STR_6021    :การก่อสร้างนั่ง - ลาดลง
+STR_6022    :การก่อสร้างนั่ง - ลาดขึ้น
+STR_6023    :การก่อสร้างนั่ง - ยกโซ่โซ่
+STR_6024    :การก่อสร้างนั่ง - ฝั่งซ้าย
+STR_6025    :การก่อสร้างนั่ง - ฝั่งขวา
+STR_6026    :การก่อสร้างนั่ง - แทร็กก่อนหน้า
+STR_6027    :การก่อสร้างนั่ง - เพลงถัดไป
+STR_6028    :ก่อสร้างนั่ง - สร้างกระแส
+STR_6029    :การก่อสร้างราง - รื้อกระแสไฟฟ้า
+STR_6030    :{SMALLFONT}{BLACK}ตัวเลือกทิวทัศน์ คลิกฉากใด ๆ บนแผนที่เพื่อเลือกชิ้นส่วนเดียวกันสำหรับการก่อสร้าง
+STR_6031    :คำอธิบายเซิร์ฟเวอร์:
+STR_6032    :คำทักทายของเซิร์ฟเวอร์:
+STR_6033    :เส้นทางการติดตั้ง RCT1:
 STR_6034    :{SMALLFONT}{BLACK}{STRING}
-STR_6035    :Please select your RCT1 directory
-STR_6036    :{SMALLFONT}{BLACK}Clear
-STR_6037    :Please select a valid RCT1 directory
-STR_6038    :{SMALLFONT}{BLACK}If you have RCT1 installed, set this option to its directory to load scenarios, music, etc.
-STR_6039    :{SMALLFONT}{BLACK}Quick demolish ride
-STR_6040    :Edit Scenario Options
-STR_6041    :{BLACK}No mechanics are hired!
-STR_6042    :Load height map
-STR_6043    :Select height map
-STR_6044    :Smooth height map
-STR_6045    :Strength
-STR_6046    :Normalise height map
-STR_6047    :Smooth tiles
-STR_6048    :Height map error
-STR_6049    :Error reading PNG
-STR_6050    :Error reading bitmap
-STR_6051    :The width and height need to match
-STR_6052    :The heightmap is too big, and will be cut off
-STR_6053    :The heightmap cannot be normalised
-STR_6054    :Only 24-bit bitmaps are supported
-STR_6055    :OpenRCT2 Heightmap File
-STR_6056    :{SMALLFONT}{BLACK}Mute
-STR_6057    :{SMALLFONT}{BLACK}Show a separate button for the Mute Option in the toolbar
-STR_6058    :Mute
+STR_6035    :โปรดเลือกไดเรกทอรี RCT1 ของคุณ
+STR_6036    :{SMALLFONT}{BLACK}ชัดเจน
+STR_6037    :โปรดเลือกไดเรกทอรี RCT1 ที่ถูกต้อง
+STR_6038    :{SMALLFONT}{BLACK}ถ้าคุณได้ติดตั้ง RCT1 ไว้ให้ตั้งค่าตัวเลือกนี้ไว้ในไดเร็กทอรีเพื่อโหลดสถานการณ์ดนตรี ฯลฯ
+STR_6039    :{SMALLFONT}{BLACK}รื้อถอนได้อย่างรวดเร็วนั่ง
+STR_6040    :แก้ไขตัวเลือกสถานการณ์จำลอง
+STR_6041    :{BLACK}ช่างเครื่องไม่ได้รับการว่าจ้าง!
+STR_6042    :โหลดแผนที่ความสูง
+STR_6043    :เลือกแผนที่ความสูง
+STR_6044    :แผนที่ความสูงเรียบ
+STR_6045    :ความแข็งแรง
+STR_6046    :ปรับความสูงของแผนที่
+STR_6047    :กระเบื้องเรียบ
+STR_6048    :ข้อผิดพลาดของแผนที่ความสูง
+STR_6049    :เกิดข้อผิดพลาดในการอ่าน PNG
+STR_6050    :เกิดข้อผิดพลาดในการอ่านบิตแมป
+STR_6051    :ความกว้างและความสูงต้องตรงกัน
+STR_6052    :ส่วนสูงมีขนาดใหญ่เกินไปและจะถูกตัดออก
+STR_6053    :ไม่สามารถปรับขนาดความสูงได้
+STR_6054    :รองรับบิตแมป 24 บิตเท่านั้น
+STR_6055    :ไฟล์ความสูง OpenRCT2
+STR_6056    :{SMALLFONT}{BLACK}ใบ้
+STR_6057    :{SMALLFONT}{BLACK}แสดงปุ่มแยกต่างหากสำหรับตัวเลือกการปิดเสียงในแถบเครื่องมือ
+STR_6058    :ใบ้
 STR_6059    :{RIGHTGUILLEMET}
-STR_6060    :Show guest purchases as animation
-STR_6061    :{SMALLFONT}{BLACK}Show animated money effect{NEWLINE}when guests make purchases.
+STR_6060    :แสดงการซื้อของผู้เข้าชมเป็นภาพเคลื่อนไหว
+STR_6061    :{SMALLFONT}{BLACK}แสดงผลเงินภาพเคลื่อนไหว{NEWLINE}เมื่อผู้เข้าร่วมทำการสั่งซื้อ
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
-STR_6064    :Own all land
-STR_6065    :Log user actions
-STR_6066    :{SMALLFONT}{BLACK}Logs all user actions to files in your user directory.
-STR_6067    :Server started.
-STR_6068    :Server shutdown.
-STR_6069    :{STRING} was kicked from the server by {STRING}.
-STR_6070    :{STRING} was set to group '{STRING}' by {STRING}.
-STR_6071    :{STRING} created new player group '{STRING}'.
-STR_6072    :{STRING} deleted player group '{String}'.
-STR_6073    :{STRING} edited permissions for player group '{String}'.
-STR_6074    :{STRING} changed player group name from '{String}' to '{String}'.
-STR_6075    :{STRING} changed the default player group to '{String}'.
-STR_6076    :{STRING} used/toggled cheat '{STRING}'.
-STR_6077    :Add Money
-STR_6078    :{STRING} created ride '{STRING}'.
-STR_6079    :{STRING} demolished ride '{STRING}'.
-STR_6080    :{STRING} changed the appearance of ride '{STRING}'.
-STR_6081    :{STRING} changed the status of ride '{STRING}' to closed.
-STR_6082    :{STRING} changed the status of ride '{STRING}' to open.
-STR_6083    :{STRING} changed the status of ride '{STRING}' to testing.
-STR_6084    :{STRING} changed the vehicle settings of ride '{STRING}'.
-STR_6085    :{STRING} changed the ride settings of ride '{STRING}'.
-STR_6086    :{STRING} renamed the ride '{STRING}' to '{STRING}'.
-STR_6087    :{STRING} changed the price of ride '{STRING}' to {STRING}
-STR_6088    :{STRING} changed the secondary price of ride '{STRING}' to {STRING}
-STR_6089    :{STRING} renamed the park from '{STRING}' to '{STRING}'.
+STR_6064    :เป็นเจ้าของที่ดินทั้งหมด
+STR_6065    :บันทึกการทำงานของผู้ใช้
+STR_6066    :{SMALLFONT}{BLACK}บันทึกการกระทำของผู้ใช้ทั้งหมดไปยังไฟล์ในไดเรกทอรีผู้ใช้ของคุณ
+STR_6067    :เซิร์ฟเวอร์เริ่มทำงานแล้ว
+STR_6068    :ปิดเซิร์ฟเวอร์
+STR_6069    :{STRING} ถูกเตะจากเซิร์ฟเวอร์โดย {STRING}.
+STR_6070    :{STRING} ถูกตั้งค่าเป็นกลุ่ม '{STRING}' โดย {STRING}.
+STR_6071    :{STRING} สร้างกลุ่มผู้เล่นใหม่ '{STRING}'.
+STR_6072    :{STRING} กลุ่มผู้เล่นที่ถูกลบ '{String}'.
+STR_6073    :{STRING} แก้ไขสิทธิ์สำหรับกลุ่มผู้เล่น '{String}'.
+STR_6074    :{STRING} เปลี่ยนชื่อกลุ่มผู้เล่นจาก '{String}' ไปยัง '{String}'.
+STR_6075    :{STRING} เปลี่ยนกลุ่มผู้เล่นเริ่มต้นเป็น '{String}'.
+STR_6076    :{STRING} ใช้ / โกงโกง '{STRING}'.
+STR_6077    :เพิ่มเงิน
+STR_6078    :{STRING} สร้างขึ้น '{STRING}'.
+STR_6079    :{STRING} ยับเยินนั่ง '{STRING}'.
+STR_6080    :{STRING} เปลี่ยนรูปลักษณ์ของการนั่ง '{STRING}'.
+STR_6081    :{STRING} เปลี่ยนสถานะของการนั่ง '{STRING}' ปิด
+STR_6082    :{STRING} เปลี่ยนสถานะของการนั่ง '{STRING}' เพื่อเปิด
+STR_6083    :{STRING} เปลี่ยนสถานะของการนั่ง '{STRING}' เพื่อทดสอบ.
+STR_6084    :{STRING} เปลี่ยนการตั้งค่ายานพาหนะของการขี่ '{STRING}'.
+STR_6085    :{STRING} เปลี่ยนการตั้งค่าขี่ของนั่ง '{STRING}'.
+STR_6086    :{STRING} เปลี่ยนชื่อนั่ง '{STRING}' ไปยัง '{STRING}'.
+STR_6087    :{STRING} เปลี่ยนราคาของการนั่ง '{STRING}' ไปยัง {STRING}
+STR_6088    :{STRING} เปลี่ยนราคารองของการนั่ง '{STRING}' ไปยัง {STRING}
+STR_6089    :{STRING} เปลี่ยนชื่อเป็นสวนสาธารณะจาก '{STRING}' ไปยัง '{STRING}'.
 STR_6090    :{STRING} เปิดสวนสาธารณะ
 STR_6091    :{STRING} ปิดสวนสาธารณะ
 STR_6092    :{STRING} เปลี่ยนค่าธรรมเนียมอุทยานทางเข้า {STRING}
