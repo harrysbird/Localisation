@@ -4267,56 +4267,56 @@ STR_5956    :Southwest
 STR_5957    :Northwest
 STR_5958    :Northeast
 STR_5959    :Southeast
-STR_5960    :{WINDOW_COLOUR_2}Quadrant placement:
-STR_5961    :{WINDOW_COLOUR_2}Entry index: {BLACK}{COMMA16}
-STR_5962    :{WINDOW_COLOUR_2}Collision detection:
-STR_5963    :{WINDOW_COLOUR_2}Raised Corners:
-STR_5964    :{WINDOW_COLOUR_2}Diagonal
-STR_5965    :{WINDOW_COLOUR_2}Entrance type: {BLACK}{STRINGID}
-STR_5966    :{WINDOW_COLOUR_2}Park entrance part: {BLACK}{STRINGID}
-STR_5967    :Middle
-STR_5968    :Left
-STR_5969    :Right
-STR_5970    :{WINDOW_COLOUR_2}Entrance ID: {BLACK}{COMMA16}
-STR_5971    :{WINDOW_COLOUR_2}Exit ID: {BLACK}{COMMA16}
-STR_5972    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
-STR_5973    :Clamp to next
-STR_5974    :{SMALLFONT}{BLACK}Changes the base- and clearance height so that it's at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
-STR_5975    :Slope:
-STR_5976    :Flat
-STR_5977    :Right side up
-STR_5978    :Left side up
-STR_5979    :{WINDOW_COLOUR_2}Wall type: {BLACK}{COMMA16}
-STR_5980    :{WINDOW_COLOUR_2}Banner text: {BLACK}{STRINGID}
-STR_5981    :{WINDOW_COLOUR_2}Not a banner
-STR_5982    :{WINDOW_COLOUR_2}Large scenery type: {BLACK}{COMMA16}
-STR_5983    :{WINDOW_COLOUR_2}Large scenery piece ID: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
-STR_5985    :New folder
-STR_5986    :Type the name of the new folder.
-STR_5987    :Unable to create folder
-STR_5988    :{SMALLFONT}{BLACK}No remaining land rights for sale
-STR_5989    :{SMALLFONT}{BLACK}No remaining construction rights for sale
-STR_5990    :{SMALLFONT}{BLACK}No remaining land rights or construction rights for sale
-STR_5991    :Can't paste element...
-STR_5992    :The map elements limit has been reached
-STR_5993    :{SMALLFONT}{BLACK}Copy selected element
-STR_5994    :{SMALLFONT}{BLACK}Paste copied element
-STR_5995    :Booster
-STR_5996    :Booster speed
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
-STR_6000    :Enter new value
-STR_6001    :Enable lighting effects (experimental)
-STR_6002    :{SMALLFONT}{BLACK}Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
-STR_6003    :Cut-away View
-STR_6004    :Cut-away View
-STR_6005    :Enable cut-away view
-STR_6006    :{SMALLFONT}{BLACK}Cut-away view only displays map elements at or below the cut height
-STR_6007    :Cut height
-STR_6008    :{SMALLFONT}{BLACK}Click to toggle raw value<->value in measurement units
-STR_6009    :{SMALLFONT}{BLACK}Select cut height
+STR_5960    :{WINDOW_COLOUR_2}ตำแหน่ง Quadrant:
+STR_5961    :{WINDOW_COLOUR_2}ดัชนีรายการ: {BLACK}{COMMA16}
+STR_5962    :{WINDOW_COLOUR_2}การตรวจจับการชน:
+STR_5963    :{WINDOW_COLOUR_2}มุมที่เพิ่มขึ้น:
+STR_5964    :{WINDOW_COLOUR_2}เส้นทแยงมุม
+STR_5965    :{WINDOW_COLOUR_2}ประเภทการเข้า: {BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}ส่วนทางเข้าอุทยานฯ: {BLACK}{STRINGID}
+STR_5967    :กลาง
+STR_5968    :ซ้าย
+STR_5969    :ขวา
+STR_5970    :{WINDOW_COLOUR_2}ทางเข้า ID: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}ทางออก ID: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}ขี่ ID: {BLACK}{COMMA16}
+STR_5973    :ยึดต่อไป
+STR_5974    :{SMALLFONT}{BLACK}เปลี่ยนความสูงฐานและกวาดล้างเพื่อให้ตรงกับองค์ประกอบถัดไปของกระเบื้องปัจจุบัน การทำเช่นนี้ช่วยให้สร้างบนกระเบื้องนี้ได้ง่ายขึ้น
+STR_5975    :ลาด:
+STR_5976    :แบน
+STR_5977    :ด้านขวาขึ้น
+STR_5978    :เลี้ยวซ้ายขึ้น
+STR_5979    :{WINDOW_COLOUR_2}ประเภทกำแพง: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}ข้อความแบนเนอร์: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}ไม่ใช่แบนเนอร์
+STR_5982    :{WINDOW_COLOUR_2}ประเภทวิวทิวทัศน์ที่ใหญ่: {BLACK}{COMMA16}
+STR_5983    :{WINDOW_COLOUR_2}ภาพทิวทัศน์ชิ้นใหญ่ ID: {BLACK}{COMMA16}
+STR_5984    :เส้นทางที่ถูกบล็อก:
+STR_5985    :แฟ้มใหม่
+STR_5986    :พิมพ์ชื่อของโฟลเดอร์ใหม่
+STR_5987    :ไม่สามารถสร้างโฟลเดอร์
+STR_5988    :{SMALLFONT}{BLACK}ไม่มีสิทธิในการขายที่ดินที่เหลืออยู่
+STR_5989    :{SMALLFONT}{BLACK}ไม่มีสิทธิในการก่อสร้างที่เหลืออยู่
+STR_5990    :{SMALLFONT}{BLACK}ไม่มีสิทธิในที่ดินหรือสิทธิการก่อสร้างที่เหลืออยู่
+STR_5991    :ไม่สามารถวางองค์ประกอบ...
+STR_5992    :ถึงขีด จำกัด ขององค์ประกอบแผนที่แล้ว
+STR_5993    :{SMALLFONT}{BLACK}คัดลอกองค์ประกอบที่เลือก
+STR_5994    :{SMALLFONT}{BLACK}วางองค์ประกอบที่คัดลอก
+STR_5995    :ผู้สนับสนุน
+STR_5996    :ความเร็วบูสเตอร์
+STR_5997    :เพิ่ม / ตั้งค่าเงิน
+STR_5998    :เพิ่มเงิน
+STR_5999    :ตั้งเงิน
+STR_6000    :ป้อนค่าใหม่
+STR_6001    :เปิดใช้งานเอฟเฟ็กต์แสง (ทดลอง)
+STR_6002    :{SMALLFONT}{BLACK}ไฟและการขี่จะส่องขึ้นในเวลากลางคืน{NEWLINE}ต้องมีการตั้งค่าเครื่องมือเพื่อกำหนดให้แสดงผลฮาร์ดแวร์
+STR_6003    :มุมมองที่ถูกตัดออก
+STR_6004    :มุมมองที่ถูกตัดออก
+STR_6005    :เปิดใช้มุมมองที่ตัดออก
+STR_6006    :{SMALLFONT}{BLACK}มุมมองแบบตัดจะแสดงเฉพาะส่วนของแผนที่ที่ด้านล่างหรือด้านล่างเท่านั้น
+STR_6007    :ตัดความสูง
+STR_6008    :{SMALLFONT}{BLACK}คลิกเพื่อสลับค่าดิบ <-> ค่าในหน่วยการวัด
+STR_6009    :{SMALLFONT}{BLACK}เลือกความสูงของการตัด
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6012    :{COMMA1DP16}
