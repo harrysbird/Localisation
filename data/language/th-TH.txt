@@ -1568,44 +1568,44 @@ STR_1563    :
 STR_1564    :
 STR_1565    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับพิซซ่าจาก {STRINGID}{ENDQUOTES}
 STR_1566    :
-STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {STRINGID}{ENDQUOTES}
-STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
-STR_1569    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for tentacle from {STRINGID}{ENDQUOTES}
-STR_1570    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hat from {STRINGID}{ENDQUOTES}
-STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a toffee apple from {STRINGID}{ENDQUOTES}
-STR_1572    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a T-shirt from {STRINGID}{ENDQUOTES}
-STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a doughnut from {STRINGID}{ENDQUOTES}
-STR_1574    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for coffee from {STRINGID}{ENDQUOTES}
+STR_1567    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินมากสำหรับข้าวโพดคั่วจาก {STRINGID}{ENDQUOTES}
+STR_1568    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินมากสำหรับสุนัขร้อนจาก {STRINGID}{ENDQUOTES}
+STR_1569    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับหนวดจาก {STRINGID}{ENDQUOTES}
+STR_1570    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับหมวกจาก {STRINGID}{ENDQUOTES}
+STR_1571    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไรสำหรับแอปเปิ้ลทอฟฟี่จาก {STRINGID}{ENDQUOTES}
+STR_1572    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับเสื้อยืดจาก {STRINGID}{ENDQUOTES}
+STR_1573    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเป็นจำนวนมากให้กับโดนัทจาก {STRINGID}{ENDQUOTES}
+STR_1574    :{SMALLFONT}{OPENQUOTES}ฉันไม่จ่ายเงินเท่าไรสำหรับกาแฟจาก {STRINGID}{ENDQUOTES}
 STR_1575    :
-STR_1576    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried chicken from {STRINGID}{ENDQUOTES}
-STR_1577    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for lemonade from {STRINGID}{ENDQUOTES}
+STR_1576    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินให้ไก่ทอดมากจาก {STRINGID}{ENDQUOTES}
+STR_1577    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไหร่สำหรับน้ำมะนาวจาก {STRINGID}{ENDQUOTES}
 STR_1578    :
 STR_1579    :
 STR_1580    :
 STR_1581    :
 STR_1582    :
 STR_1583    :
-STR_1584    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1585    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1586    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really good value{ENDQUOTES}
-STR_1587    :{SMALLFONT}{OPENQUOTES}This pretzel from {STRINGID} is really good value{ENDQUOTES}
-STR_1588    :{SMALLFONT}{OPENQUOTES}This hot chocolate from {STRINGID} is really good value{ENDQUOTES}
-STR_1589    :{SMALLFONT}{OPENQUOTES}This iced tea from {STRINGID} is really good value{ENDQUOTES}
-STR_1590    :{SMALLFONT}{OPENQUOTES}This funnel cake from {STRINGID} is really good value{ENDQUOTES}
-STR_1591    :{SMALLFONT}{OPENQUOTES}These sunglasses from {STRINGID} are really good value{ENDQUOTES}
-STR_1592    :{SMALLFONT}{OPENQUOTES}These beef noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1593    :{SMALLFONT}{OPENQUOTES}These fried rice noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1594    :{SMALLFONT}{OPENQUOTES}This wonton soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1595    :{SMALLFONT}{OPENQUOTES}This meatball soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1596    :{SMALLFONT}{OPENQUOTES}This fruit juice from {STRINGID} is really good value{ENDQUOTES}
-STR_1597    :{SMALLFONT}{OPENQUOTES}This soybean milk from {STRINGID} is really good value{ENDQUOTES}
-STR_1598    :{SMALLFONT}{OPENQUOTES}This sujongkwa from {STRINGID} is really good value{ENDQUOTES}
-STR_1599    :{SMALLFONT}{OPENQUOTES}This sub sandwich from {STRINGID} is really good value{ENDQUOTES}
-STR_1600    :{SMALLFONT}{OPENQUOTES}This cookie from {STRINGID} is really good value{ENDQUOTES}
+STR_1584    :{SMALLFONT}{OPENQUOTES} ภาพบนรถจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1585    : {SMALLFONT}{OPENQUOTES} ภาพบนรถจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1586    : {SMALLFONT}{OPENQUOTES} ภาพบนรถจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1587    : {SMALLFONT}{OPENQUOTES} ขนมปังเค็ม จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1588    : {SMALLFONT}{OPENQUOTES} ช็อกโกแลตร้อนจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1589    : {SMALLFONT}{OPENQUOTES} ชาเย็นนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1590    : {SMALLFONT}{OPENQUOTES} เค้กช่องทางนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1591    : {SMALLFONT}{OPENQUOTES} แว่นตากันแดดเหล่านี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1592    : {SMALLFONT}{OPENQUOTES} ก๋วยเตี๋ยวเนื้อเหล่านี้จาก {STRINGID} มีมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1593    : {SMALLFONT}{OPENQUOTES} ก๋วยเตี๋ยวผัดเหล่านี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1594    : {SMALLFONT}{OPENQUOTES} ซุปเกี๊ยวจาก {STRINGID} นี้คุ้มค่าจริงๆ{ENDQUOTES}
+STR_1595    : {SMALLFONT}{OPENQUOTES} ซุปลูกช้างจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1596    : {SMALLFONT}{OPENQUOTES} น้ำผลไม้นี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1597    : {SMALLFONT}{OPENQUOTES} นมถั่วเหลืองจาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1598    : {SMALLFONT}{OPENQUOTES} sujongkwa นี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1599    : {SMALLFONT}{OPENQUOTES} แซนวิชย่อยนี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
+STR_1600    : {SMALLFONT}{OPENQUOTES} คุกกี้นี้จาก {STRINGID} เป็นมูลค่าที่ดีจริงๆ{ENDQUOTES}
 STR_1601    :
 STR_1602    :
 STR_1603    :
-STR_1604    :{SMALLFONT}{OPENQUOTES}This roast sausage from {STRINGID} are really good value{ENDQUOTES}
+STR_1604    :{SMALLFONT}{OPENQUOTES} ไส้กรอกย่างจาก {STRINGID} มีมูลค่าที่ดีจริงๆ{ENDQUOTES}
 STR_1605    :
 STR_1606    :
 STR_1607    :
@@ -1617,27 +1617,27 @@ STR_1612    :
 STR_1613    :
 STR_1614    :
 STR_1615    :
-STR_1616    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1617    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1618    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1619    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a pretzel from {STRINGID}{ENDQUOTES}
-STR_1620    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for hot chocolate from {STRINGID}{ENDQUOTES}
-STR_1621    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for iced tea from {STRINGID}{ENDQUOTES}
-STR_1622    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a funnel cake from {STRINGID}{ENDQUOTES}
-STR_1623    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sunglasses from {STRINGID}{ENDQUOTES}
-STR_1624    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for beef noodles from {STRINGID}{ENDQUOTES}
-STR_1625    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried rice noodles from {STRINGID}{ENDQUOTES}
-STR_1626    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for wonton soup from {STRINGID}{ENDQUOTES}
-STR_1627    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for meatball soup from {STRINGID}{ENDQUOTES}
-STR_1628    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fruit juice from {STRINGID}{ENDQUOTES}
-STR_1629    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for soybean milk from {STRINGID}{ENDQUOTES}
-STR_1630    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sujongkwa from {STRINGID}{ENDQUOTES}
-STR_1631    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a sub sandwich from {STRINGID}{ENDQUOTES}
-STR_1632    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cookie from {STRINGID}{ENDQUOTES}
+STR_1616    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินจำนวนมากสำหรับภาพบนรถจาก {STRINGID}{ENDQUOTES}
+STR_1617    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินจำนวนมากสำหรับภาพบนรถจาก {STRINGID}{ENDQUOTES}
+STR_1618    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับภาพบนรถจาก {STRINGID}{ENDQUOTES}
+STR_1619    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับขนมปังเพรเซลเซิลจาก {STRINGID}{ENDQUOTES}
+STR_1620    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับช็อคโกแลตร้อนจาก {STRINGID}{ENDQUOTES}
+STR_1621    :{SMALLFONT}{OPENQUOTES} ฉันไม่จ่ายเงินเท่าไรสำหรับชาเย็นจาก {STRINGID}{ENDQUOTES}
+STR_1622    :{SMALLFONT}{OPENQUOTES} ฉันไม่ค่อยจ่ายเงินเท่าไหร่สำหรับเค้กช่องทางจาก {STRINGID}{ENDQUOTES}
+STR_1623    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินค่าแว่นตากันแดดมากจาก {STRINGID}{ENDQUOTES}
+STR_1624    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับก๋วยเตี๋ยวเนื้อจาก {STRINGID}{ENDQUOTES}
+STR_1625    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับก๋วยเตี๋ยวผัดจาก {STRINGID}{ENDQUOTES}
+STR_1626    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเท่านี้สำหรับซุปเกี๊ยวจาก {STRINGID}{ENDQUOTES}
+STR_1627    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเท่าไรสำหรับซุปเนื้อจาก {STRINGID}{ENDQUOTES}
+STR_1628    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเท่าไรสำหรับน้ำผลไม้จาก {STRINGID}{ENDQUOTES}
+STR_1629    :{SMALLFONT}{OPENQUOTES} ฉันไม่จ่ายเงินเป็นจำนวนมากสำหรับนมถั่วเหลืองจาก {STRINGID}{ENDQUOTES}
+STR_1630    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินจำนวนมหาศาลสำหรับ sujongkwa จาก {STRINGID}{ENDQUOTES}
+STR_1631    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับแซนวิชย่อยจาก {STRINGID}{ENDQUOTES}
+STR_1632    :{SMALLFONT}{OPENQUOTES} ฉันไม่ได้จ่ายเงินเป็นจำนวนมากสำหรับคุกกี้จาก {STRINGID}{ENDQUOTES}
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a roast sausage from {STRINGID}{ENDQUOTES}
+STR_1636    :{SMALLFONT}{OPENQUOTES}ฉันไม่ได้จ่ายเงินเท่าไหร่สำหรับไส้กรอกย่างจาก {STRINGID}{ENDQUOTES}
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -1649,9 +1649,9 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}{OPENQUOTES}Help! Put me down!{ENDQUOTES}
-STR_1649    :{SMALLFONT}{OPENQUOTES}I'm running out of cash!{ENDQUOTES}
-STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
+STR_1648    :{SMALLFONT}(OPENQUOTES}ความช่วยเหลือ! วางฉันลง!{ENDQUOTES}
+STR_1649    :{SMALLFONT}{OPENQUOTES}ฉันหมดเงินสดแล้ว{ENDQUOTES}
+STR_1650    :{SMALLFONT}{OPENQUOTES}ว้าว! นั่งใหม่แล้ว!{ENDQUOTES}
 STR_1651    :<removed string - do not use>
 STR_1652    :<removed string - do not use>
 STR_1653    :{SMALLFONT}{OPENQUOTES}...and here we are on {STRINGID}!{ENDQUOTES}
@@ -4258,15 +4258,15 @@ STR_5947    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
 STR_5948    :{WINDOW_COLOUR_2}Ride name: {BLACK}{STRINGID}
 STR_5949    :{WINDOW_COLOUR_2}Chain lift
 STR_5950    :{WINDOW_COLOUR_2}Apply changes to entire track piece
-STR_5951    :{WINDOW_COLOUR_2}Track piece ID: {BLACK}{COMMA16}
-STR_5952    :{WINDOW_COLOUR_2}Sequence number: {BLACK}{COMMA16}
-STR_5953    :{SMALLFONT}{BLACK}Sort the map elements on the current tile based on their base height.
-STR_5954    :{WINDOW_COLOUR_2}Scenery age: {BLACK}{COMMA16}
-STR_5955    :{WINDOW_COLOUR_2}Quadrant placement: {BLACK}{STRINGID}
-STR_5956    :Southwest
-STR_5957    :Northwest
-STR_5958    :Northeast
-STR_5959    :Southeast
+STR_5951    :{WINDOW_COLOUR_2}ติดตามชิ้นส่วน ID: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}ลำดับหมายเลข: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}จัดเรียงองค์ประกอบแผนที่บนกระเบื้องปัจจุบันตามความสูงฐาน
+STR_5954    :{WINDOW_COLOUR_2}ทัศนียภาพอายุ: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}ตำแหน่ง Quadrant: {BLACK}{STRINGID}
+STR_5956    :ทิศตะวันตกเฉียงใต้
+STR_5957    :ตะวันตกเฉียงเหนือ
+STR_5958    :ตะวันออกเฉียงเหนือ
+STR_5959    :ทิศตะวันออกเฉียงใต้
 STR_5960    :{WINDOW_COLOUR_2}ตำแหน่ง Quadrant:
 STR_5961    :{WINDOW_COLOUR_2}ดัชนีรายการ: {BLACK}{COMMA16}
 STR_5962    :{WINDOW_COLOUR_2}การตรวจจับการชน:
